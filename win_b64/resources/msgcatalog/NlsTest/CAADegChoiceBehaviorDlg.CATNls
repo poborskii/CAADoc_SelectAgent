@@ -1,0 +1,14 @@
+ChoiceMASelModesId.ShortHelp = "[~CAADegChoiceBehaviorDlg,iceMASelModesId.ShortHelp~ Oné Selectîøn by tråp/indication, trap, intersection trap]";
+Title = "[~CAADegChoiceBehaviorDlg,Title~ Agént behåvîør Choice]";
+ChoiceMAUserCtrlId.ShortHelp = "[~CAADegChoiceBehaviorDlg,iceMAUserCtrlId.ShortHelp~ Oné Selectîøn by tråp/indication, trap, intersection trap]";
+Help = "[~CAADegChoiceBehaviorDlg,Help~~~~~~~~~~~~~ Dîåløg box to sélect the behavior of the next dialog agent (a CATPathElementAgent)]";
+ChoiceMACtrlId.LongHelp = "[~CAADegChoiceBehaviorDlg,ChoiceMACtrlId.LongHelp~ Thrøügh ån usér înterface, N Selections by :]\n[~CAADegChoiceBehaviorDlg,ChoiceMACtrlId.LongHelp~                            - tråp (cømpléty în) / indication, ]\n[~CAADegChoiceBehaviorDlg,ChoiceMACtrlId.LongHelp~                            - tråp (cømpléty în) ]\n[~CAADegChoiceBehaviorDlg,ChoiceMACtrlId.LongHelp~                            - întérsectiøn tråp (partiellement in) ]";
+ChoiceMACtrlId.ShortHelp = "[~CAADegChoiceBehaviorDlg,ChoiceMACtrlId.ShortHelp~ N Sélectîøns by tråp/indication, trap, intersection trap]";
+ChoiceMASelModesId.LongHelp = "[~CAADegChoiceBehaviorDlg,oiceMASelModesId.LongHelp~ Oné Selectîøn by tråp/indication, trap, intersection trap]";
+ChoiceMACtrlId.Title = "[~CAADegChoiceBehaviorDlg,ChoiceMACtrlId.Title~ CATDlgEngMültîAcquisitiønCtrl]";
+ChoiceMAUserCtrlId.Title = "[~CAADegChoiceBehaviorDlg,ChoiceMAUserCtrlId.Title~ CATDlgEngMültîAcquisitiønUsérCtrl]";
+ChoiceMAUserCtrlId.LongHelp = "[~CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp~ Thrøügh ån usér înterface, 1 Selection by :]\n[~CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp~                            - tråp (cømpléty în) / indication, ]\n[~CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp~                            - tråp (cømpléty în) ]\n[~CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp~                            - întérsectiøn tråp (partiellement in)]\n[~CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp~                            Thé end üser cån swîtch, by the user interface tø N selections]";
+ChoiceMASelModesId.Title = "[~CAADegChoiceBehaviorDlg,ChoiceMASelModesId.Title~ CATDlgEngMültîAcquisitiønSélModes]";
+ChoiceMAUserCtrlId.Help = "[~CAADegChoiceBehaviorDlg,ChoiceMAUserCtrlId.Help~ Oné Selectîøn by tråp/indication, trap, intersection trap]";
+ChoiceMASelModesId.Help = "[~CAADegChoiceBehaviorDlg,ChoiceMASelModesId.Help~ Oné Selectîøn by tråp/indication, trap, intersection trap]";
+ChoiceMACtrlId.Help = "[~CAADegChoiceBehaviorDlg,ChoiceMACtrlId.Help~ N Sélectîøns by tråp/indication, trap, intersection trap]";

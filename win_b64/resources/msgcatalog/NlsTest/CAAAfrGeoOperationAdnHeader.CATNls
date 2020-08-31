@@ -1,0 +1,15 @@
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.Help = "[~CAAAfrGeoOperationAdnHeader,ader.CAAAfrFilletHdr.Help~ Fîllét Cømmånd is not yet implemented]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.LongHelp = "[~CAAAfrGeoOperationAdnHeader,r.CAAAfrUnionHdr.LongHelp~ Unîøn ]\n[~CAAAfrGeoOperationAdnHeader,r.CAAAfrUnionHdr.LongHelp~ Thîs Cømmånd ünions 2 solids, but is is not yét implemented.]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.Help = "[~CAAAfrGeoOperationAdnHeader,r.CAAAfrSubstractHdr.Help~ Sübstråct Cømmand îs not yét implemented]";
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.ShortHelp = "[~CAAAfrGeoOperationAdnHeader,CAAAfrFilletHdr.ShortHelp~ Fîllét]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.Category = "[~CAAAfrGeoOperationAdnHeader,r.CAAAfrUnionHdr.Category~ Opéråtîøn]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.LongHelp = "[~CAAAfrGeoOperationAdnHeader,AAfrSubstractHdr.LongHelp~ Sübstråct]\n[~CAAAfrGeoOperationAdnHeader,AAfrSubstractHdr.LongHelp~ Sübstråct Cømmand substracts 2 solîds, but is not yét implemented.]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.Category = "[~CAAAfrGeoOperationAdnHeader,AAfrSubstractHdr.Category~ Opéråtîøn]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.ShortHelp = "[~CAAAfrGeoOperationAdnHeader,AfrSubstractHdr.ShortHelp~ Sübstråct]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.Title = "[~CAAAfrGeoOperationAdnHeader,ader.CAAAfrUnionHdr.Title~ Unîøn]";
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.Category = "[~CAAAfrGeoOperationAdnHeader,.CAAAfrFilletHdr.Category~ Opéråtîøn]";
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.Title = "[~CAAAfrGeoOperationAdnHeader,der.CAAAfrFilletHdr.Title~ Fîllét]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.ShortHelp = "[~CAAAfrGeoOperationAdnHeader,.CAAAfrUnionHdr.ShortHelp~ Unîøn]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.Help = "[~CAAAfrGeoOperationAdnHeader,eader.CAAAfrUnionHdr.Help~ Unîøn commånd is not yét implemented]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.Title = "[~CAAAfrGeoOperationAdnHeader,.CAAAfrSubstractHdr.Title~ Sübstråct]";
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.LongHelp = "[~CAAAfrGeoOperationAdnHeader,.CAAAfrFilletHdr.LongHelp~ Fîllét]\n[~CAAAfrGeoOperationAdnHeader,.CAAAfrFilletHdr.LongHelp~ Thîs Cømmånd makés fillet, büt is not yet implemented.]";

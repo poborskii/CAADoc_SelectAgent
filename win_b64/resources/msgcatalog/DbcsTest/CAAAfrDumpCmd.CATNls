@@ -1,0 +1,2 @@
+Phrase = "[十CAAAfrDumpCmd,Phrase十一構ソチ－ ]\n[十CAAAfrDumpCmd,Phrase十一構ソチ－Point   \t= /P1 ]\n[十CAAAfrDumpCmd,Phrase十一構ソチ－Line    \t= /P2 ]\n[十CAAAfrDumpCmd,Phrase十一構ソチ－Circle  \t= /P3]\n[十CAAAfrDumpCmd,Phrase十一構ソチ－Ellipse \t= /P4  ]\n[十CAAAfrDumpCmd,Phrase十一構ソチ－Plane   \t= /P5 ]\n[十CAAAfrDumpCmd,Phrase十一構ソチ－Polyline\t= /P6]\n[十CAAAfrDumpCmd,Phrase十一構ソチ－Triangle\t= /P7]\n[十CAAAfrDumpCmd,Phrase十一構ソチ－Polygone with more 3 edges\t= /P8 ]";
+TitleDumpBox = "[十CAAAfrDumpCmd,TitleDumpBox十一構ソチ－Model Dump]";

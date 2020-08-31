@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{6c11d78b-d493-46f0-8343-4b90a8fa3bf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{35a6de6c-9540-40ea-84fd-fd70f68d48bc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoWksAddin2.m\src\CAAAfrGeoChartWindowAdn.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoWksAddin2.m\LocalInterfaces\CAAAfrGeoChartWindowAdn.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoWksAddin2.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

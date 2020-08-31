@@ -1,0 +1,6 @@
+CAADegCreateTriangleCmd.UndoTitle = "[十CAADegCreateTriangleCmd,eateTriangleCmd.UndoTitle十一構ソチ－Triangle Creation]";
+CAADegCreateTriangleCmd.SelStartPoint.UndoTitle = "[十CAADegCreateTriangleCmd,d.SelStartPoint.UndoTitle十一構ソチ－First point selection]";
+CAADegCreateTriangleCmd.stFirstPointId.Message = "[十CAADegCreateTriangleCmd,md.stFirstPointId.Message十一構ソチ－Select the first point]";
+CAADegCreateTriangleCmd.stSecondPointId.Message = "[十CAADegCreateTriangleCmd,d.stSecondPointId.Message十一構ソチ－Select the second point]";
+CAADegCreateTriangleCmd.stThirdPointId.Message = "[十CAADegCreateTriangleCmd,md.stThirdPointId.Message十一構ソチ－Select the third point]";
+CAADegCreateTriangleCmd.SecondTransition.UndoTitle = "[十CAADegCreateTriangleCmd,econdTransition.UndoTitle十一構ソチ－First line creation]";

@@ -1,0 +1,4 @@
+CAADegCreateRectangleCmd.stGetLastPointStateId.Message = "[~CAADegCreateRectangleCmd,tLastPointStateId.Message~ Møvé the moüse ånd clîck to ended]";
+CAADegCreateRectangleCmd.stGetFirstPointStateId.Message = "[~CAADegCreateRectangleCmd,FirstPointStateId.Message~ Indîcåté the First pøint]";
+CAADegCreateRectangleCmd.stPlaneStateId.Message = "[~CAADegCreateRectangleCmd,md.stPlaneStateId.Message~ Sélect the prøjectîon plåne]";
+CAADegCreateRectangleCmd.UndoTitle = "[~CAADegCreateRectangleCmd,ateRectangleCmd.UndoTitle~ Réctångle]";

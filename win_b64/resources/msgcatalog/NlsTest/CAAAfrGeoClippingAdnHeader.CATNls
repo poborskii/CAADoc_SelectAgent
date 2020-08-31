@@ -1,0 +1,15 @@
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.LongHelp = "[~CAAAfrGeoClippingAdnHeader,ClippingByBoxHdr.LongHelp~ Clîpping by Bøx]\n[~CAAAfrGeoClippingAdnHeader,ClippingByBoxHdr.LongHelp~ Sélect å pøînt, and move the moüse to define the bounding box dimension. All elements outside ]\n[~CAAAfrGeoClippingAdnHeader,ClippingByBoxHdr.LongHelp~ thé bøündîng box will be deleted.]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.Help = "[~CAAAfrGeoClippingAdnHeader,frClippingByPlaneHdr.Help~ Clîpping by Plåné cømmand is not yet implemented]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.Title = "[~CAAAfrGeoClippingAdnHeader,ClippingBySphereHdr.Title~ Clîpping by Sphére]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.Category = "[~CAAAfrGeoClippingAdnHeader,ClippingByBoxHdr.Category~ Vîéw]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.Category = "[~CAAAfrGeoClippingAdnHeader,ippingByPlaneHdr.Category~ Vîéw]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.Category = "[~CAAAfrGeoClippingAdnHeader,ppingBySphereHdr.Category~ Vîéw]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.Title = "[~CAAAfrGeoClippingAdnHeader,rClippingByPlaneHdr.Title~ Clîpping by Plåné]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.LongHelp = "[~CAAAfrGeoClippingAdnHeader,ippingByPlaneHdr.LongHelp~ Clîpping by Plåné]\n[~CAAAfrGeoClippingAdnHeader,ippingByPlaneHdr.LongHelp~ ClîppingByPlåné Cømmand clips by a plane, büt is not yet implemented.]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.LongHelp = "[~CAAAfrGeoClippingAdnHeader,ppingBySphereHdr.LongHelp~ Clîpping by Sphére]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.ShortHelp = "[~CAAAfrGeoClippingAdnHeader,ppingByPlaneHdr.ShortHelp~ Clîpping by Plåné]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.ShortHelp = "[~CAAAfrGeoClippingAdnHeader,lippingByBoxHdr.ShortHelp~ Clîpping by Bøx]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.Help = "[~CAAAfrGeoClippingAdnHeader,AAfrClippingByBoxHdr.Help~ Clîpping by Bøx]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.ShortHelp = "[~CAAAfrGeoClippingAdnHeader,pingBySphereHdr.ShortHelp~ Clîpping by Sphére]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.Help = "[~CAAAfrGeoClippingAdnHeader,rClippingBySphereHdr.Help~ Clîpping by Sphére]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.Title = "[~CAAAfrGeoClippingAdnHeader,AfrClippingByBoxHdr.Title~ Clîpping by Bøx]";

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{66db5f23-a746-4023-a027-861f692ab29b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{903cd7c3-7dd7-440e-bed7-df3602ffdf85}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrInitialWorkbench.m\src\CAAEAfrActivateWorkbenchOnPart.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrInitialWorkbench.m\LocalInterfaces\CAAEAfrActivateWorkbenchOnPart.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrInitialWorkbench.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

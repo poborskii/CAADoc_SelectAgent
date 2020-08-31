@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAAAfrProductLine.exe|.\CAAApplicationFrame.edu\CAAAfrProductLine.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrProductLine.m\Objects\win_b64\mkcsc\CAAAfrProductLine.cscdb|.\CAAApplicationFrame.edu\CAAAfrProductLine.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrProductLine.pdb|.\CAAApplicationFrame.edu\CAAAfrProductLine.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

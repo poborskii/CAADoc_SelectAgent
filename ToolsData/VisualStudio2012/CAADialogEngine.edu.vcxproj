@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{D1E7089F-697F-43C3-BED1-92DD952222DA}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\CAADialogEngine.edu\.installation.mode" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\code\dictionary\CAADialogEngine.edu.dico" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\graphic\icons\normal\I_CAASwitchAgentCube.bmp" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\graphic\icons\normal\I_CAASwitchAgentCuboidWidthDepth.bmp" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\graphic\icons\normal\I_CAASwitchAgentCuboidWidthDepthHeight.bmp" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\graphic\icons\normal\I_CAASwitchOrigin.bmp" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegAnalysisEltTypeCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegAnalysisLogCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegAnalysisNumericCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegAnalysisNumericDlg.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegChoiceBehaviorDlg.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegClippingByBoxCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegClippingBySphereCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateBoxCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateBoxCmd.CATRsc" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateBoxPaletteHeader.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateBoxPaletteHeader.CATRsc" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateCircleCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateCylinder1Cmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateCylinder2Cmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateEllipseCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateLineCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreatePlaneCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreatePolylineBy2TrianglesCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreatePolylineCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateRectangleCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateTriangleCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegFileCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegHistogramChartWindowCmd.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegHstChartWndDlg.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegPointEditor.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegPointErrorBox.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegRadiusEllipseEditor.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegSampleMultiDocumentCommand.CATNls" />
+    <None Include="..\..\CAADialogEngine.edu\IdentityCard\Objects\win_b64\.mkGraphs\mkBSIdcardBuild.mkDG" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAADialogEngine.edu\IdentityCard\IdentityCard.h" />
+    <ClInclude Include="..\..\CAADialogEngine.edu\PrivateInterfaces\CAADegMultiDocCmd.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

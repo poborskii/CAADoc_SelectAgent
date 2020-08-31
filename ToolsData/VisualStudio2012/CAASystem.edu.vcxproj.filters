@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{3469a302-1820-4fb2-ba71-22a2a63822bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code">
+      <UniqueIdentifier>{3bee6bf0-643b-45ee-923b-2cd9cd0a0ab4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code\dictionary">
+      <UniqueIdentifier>{d98c492a-8e0a-4240-b2f2-ddcbb46ca5e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{34c80ba3-5215-4812-9602-1a16431ca2d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{9a413681-7cd8-4313-a6fa-328fe6944e2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog\French">
+      <UniqueIdentifier>{55be9870-b5f8-4f3a-b491-30ff0c62e2b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{2458eb2e-436d-484d-b0e4-67431db9b7aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{f4711952-873c-4783-839d-42841468d681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{a1380687-ee5b-4cd0-9c55-d504dbd9e154}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAASystem.edu\IdentityCard\IdentityCard.h">
+      <Filter>IdentityCard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PrivateInterfaces\CAAISysDataRequest.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PrivateInterfaces\CAASysBBMessageInt.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PrivateInterfaces\CAASysTypeLib.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysAccess.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCircle.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCircleCenterProperties.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCollection.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysColorProperties.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCuboid.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCylinder.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysDocumentChartWindow.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysEllipse.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysGeomFactory.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysInterface.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysLine.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysMyInterface.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysName.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysPlane.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysPoint.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysPointProperties.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysPolyline.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysTextureProperties.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysAutomationImpl.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysCollectionEmptyNotif.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysCollectionFilledNotif.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysCollectionModifNotif.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysCollectionNotification.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysComponentCLSID.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysComponentInt.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysGeoModelComp.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysGeoModelInf.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysInterface.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysSprocketFactory.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\CAASystem.edu\.installation.mode">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\CNext\code\dictionary\CAASystem.edu.clsid">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\CNext\code\dictionary\CAASystem.edu.dico">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\CNext\code\dictionary\CAASystem.edu.iid">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\CAASysCharStrings.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\CAASysError.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\CAASysNotToTranslateCharStrings.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\French\CAASysCharStrings.CATNls">
+      <Filter>CNext\resources\msgcatalog\French</Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\French\CAASysError.CATNls">
+      <Filter>CNext\resources\msgcatalog\French</Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\PublicInterfaces\CAAIASysSprocket.idl">
+      <Filter>PublicInterfaces</Filter>
+    </None>
+    <None Include="..\..\CAASystem.edu\PublicInterfaces\CAAIASysSprockets.idl">
+      <Filter>PublicInterfaces</Filter>
+    </None>
+  </ItemGroup>
+</Project>

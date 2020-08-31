@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+BTV/000/CUS .\win_b64\code\lib\CAASysGeoModelComp.lib|.\CAASystem.edu\CAASysGeoModelComp.m
+INT/000/CUS .\win_b64\code\lib\CAASysGeoModelComp.exp|.\CAASystem.edu\CAASysGeoModelComp.m
+RTV/001/CUS .\win_b64\code\bin\CAASysGeoModelComp.dll|.\CAASystem.edu\CAASysGeoModelComp.m
+INT/000/CUS .\win_b64\code\bin\CAASysGeoModelComp.pdb|.\CAASystem.edu\CAASysGeoModelComp.m
+CSC/000/DSI .\CAASystem.edu\CAASysGeoModelComp.m\Objects\win_b64\mkcsc\CAASysGeoModelComp.cscdb|.\CAASystem.edu\CAASysGeoModelComp.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

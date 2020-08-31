@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{29baeefe-c87a-41ea-a1c4-5edbd79345e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{cf776f45-2f3a-49e0-95d0-c880b064b301}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrProgressTask.m\src\CAAAfrProgressTaskSampleCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrProgressTask.m\LocalInterfaces\CAAAfrProgressTaskSampleCmd.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrProgressTask.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

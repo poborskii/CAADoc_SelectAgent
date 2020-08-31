@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{4cd13a30-80e2-4f26-9550-a01c003a81c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{570057f1-b030-4ffe-b277-beaaab2ec122}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasicAppli.m\src\CAAVisBasicApplication.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasicAppli.m\src\CAAVisBasicWindow.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasicAppli.m\LocalInterfaces\CAAVisBasicApplication.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasicAppli.m\LocalInterfaces\CAAVisBasicWindow.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisBasicAppli.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

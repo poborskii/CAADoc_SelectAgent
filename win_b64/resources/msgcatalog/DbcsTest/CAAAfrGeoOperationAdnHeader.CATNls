@@ -1,0 +1,15 @@
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.Help = "[十CAAAfrGeoOperationAdnHeader,ader.CAAAfrFilletHdr.Help十一構ソチ－Fillet Command is not yet implemented]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.LongHelp = "[十CAAAfrGeoOperationAdnHeader,r.CAAAfrUnionHdr.LongHelp十一構ソチ－Union ]\n[十CAAAfrGeoOperationAdnHeader,r.CAAAfrUnionHdr.LongHelp十一構ソチ－This Command unions 2 solids, but is is not yet implemented.]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.Help = "[十CAAAfrGeoOperationAdnHeader,r.CAAAfrSubstractHdr.Help十一構ソチ－Substract Command is not yet implemented]";
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.ShortHelp = "[十CAAAfrGeoOperationAdnHeader,CAAAfrFilletHdr.ShortHelp十一構ソチ－Fillet]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.Category = "[十CAAAfrGeoOperationAdnHeader,r.CAAAfrUnionHdr.Category十一構ソチ－Operation]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.LongHelp = "[十CAAAfrGeoOperationAdnHeader,AAfrSubstractHdr.LongHelp十一構ソチ－Substract]\n[十CAAAfrGeoOperationAdnHeader,AAfrSubstractHdr.LongHelp十一構ソチ－Substract Command substracts 2 solids, but is not yet implemented.]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.Category = "[十CAAAfrGeoOperationAdnHeader,AAfrSubstractHdr.Category十一構ソチ－Operation]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.ShortHelp = "[十CAAAfrGeoOperationAdnHeader,AfrSubstractHdr.ShortHelp十一構ソチ－Substract]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.Title = "[十CAAAfrGeoOperationAdnHeader,ader.CAAAfrUnionHdr.Title十一構ソチ－Union]";
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.Category = "[十CAAAfrGeoOperationAdnHeader,.CAAAfrFilletHdr.Category十一構ソチ－Operation]";
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.Title = "[十CAAAfrGeoOperationAdnHeader,der.CAAAfrFilletHdr.Title十一構ソチ－Fillet]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.ShortHelp = "[十CAAAfrGeoOperationAdnHeader,.CAAAfrUnionHdr.ShortHelp十一構ソチ－Union]";
+CAAAfrGeoOperationAdnHeader.CAAAfrUnionHdr.Help = "[十CAAAfrGeoOperationAdnHeader,eader.CAAAfrUnionHdr.Help十一構ソチ－Union command is not yet implemented]";
+CAAAfrGeoOperationAdnHeader.CAAAfrSubstractHdr.Title = "[十CAAAfrGeoOperationAdnHeader,.CAAAfrSubstractHdr.Title十一構ソチ－Substract]";
+CAAAfrGeoOperationAdnHeader.CAAAfrFilletHdr.LongHelp = "[十CAAAfrGeoOperationAdnHeader,.CAAAfrFilletHdr.LongHelp十一構ソチ－Fillet]\n[十CAAAfrGeoOperationAdnHeader,.CAAAfrFilletHdr.LongHelp十一構ソチ－This Command makes fillet, but is not yet implemented.]";

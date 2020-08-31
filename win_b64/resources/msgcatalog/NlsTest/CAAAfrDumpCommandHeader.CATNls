@@ -1,0 +1,5 @@
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.LongHelp = "[~CAAAfrDumpCommandHeader,er.CAAAfrDumpHdr.LongHelp~ Elément Cøünt (Tools menu)]\n[~CAAAfrDumpCommandHeader,er.CAAAfrDumpHdr.LongHelp~ Thîs cømmånd énables the üser to dump document contents]";
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.ShortHelp = "[~CAAAfrDumpCommandHeader,r.CAAAfrDumpHdr.ShortHelp~ Elément Cøünt]";
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.Category = "[~CAAAfrDumpCommandHeader,er.CAAAfrDumpHdr.Category~ Tøols]";
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.Title = "[~CAAAfrDumpCommandHeader,eader.CAAAfrDumpHdr.Title~ Elément Cøünt...]";
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.Help = "[~CAAAfrDumpCommandHeader,Header.CAAAfrDumpHdr.Help~ Cønténts of the docüment]";

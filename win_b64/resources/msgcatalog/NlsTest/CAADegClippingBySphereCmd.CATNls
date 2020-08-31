@@ -1,0 +1,3 @@
+CAADegClippingBySphereCmd.stFirstPointId.Message = "[~CAADegClippingBySphereCmd,md.stFirstPointId.Message~ Sélect the fîrst pøint]";
+CAADegClippingBySphereCmd.stSecondPointId.Message = "[~CAADegClippingBySphereCmd,d.stSecondPointId.Message~ Sélect the secønd poînt]";
+CAADegClippingBySphereCmd.UndoTitle = "[~CAADegClippingBySphereCmd,pingBySphereCmd.UndoTitle~ Clîpping by Sphére]";

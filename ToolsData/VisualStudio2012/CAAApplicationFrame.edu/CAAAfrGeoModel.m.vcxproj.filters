@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{7b01c48f-6d13-49db-aa81-c478589865d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{6111a69e-4be7-443e-8c10-df0962fe850e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoModel.m\src\CAAEAfrCollection.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoModel.m\LocalInterfaces\CAAEAfrCollection.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoModel.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

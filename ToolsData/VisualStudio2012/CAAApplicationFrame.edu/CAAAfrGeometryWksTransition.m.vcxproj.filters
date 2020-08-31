@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{9504c428-7e33-4a3a-879e-1c9f6bdd1c4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{1a79bfe5-42ee-4bc9-8aae-f8958016e14d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeometryWksTransition.m\src\CAAEAfrGeometryWksTransition.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeometryWksTransition.m\LocalInterfaces\CAAEAfrGeometryWksTransition.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeometryWksTransition.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

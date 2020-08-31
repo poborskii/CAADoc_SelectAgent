@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{e19f97f1-6aad-4cd2-9d10-097a02f35366}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code">
+      <UniqueIdentifier>{79bcd165-e1b8-47bc-b313-149b8ec02793}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code\dictionary">
+      <UniqueIdentifier>{38adbe22-f045-4354-ba04-ee005b83b088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{7ae87944-64f5-4fc5-ae45-7431c5ba19ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\cgr">
+      <UniqueIdentifier>{08838edd-49d1-4c1e-8b00-a1850e2316a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{c938b0fb-3198-43f1-a6f8-a7e942ddd04e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog\French">
+      <UniqueIdentifier>{70cf8f28-0015-41dc-9a85-05895d188529}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{18d7f09c-b54b-4bba-8649-69ac361f6fa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{45af01de-5353-4685-98e6-da55b528a0d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{5cee3a53-7107-4e55-a7f8-761cf0828664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{887f660c-0436-4212-8561-e41e71eaf759}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAAVisualization.edu\IdentityCard\IdentityCard.h">
+      <Filter>IdentityCard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PrivateInterfaces\CAAVisModelCGRObject.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PrivateInterfaces\CAAVisModelCuboid.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PrivateInterfaces\CAAVisModelObject.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PrivateInterfaces\CAAVisModelSetOfObject.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PrivateInterfaces\CAAVisModelSphere.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\ProtectedInterfaces\CAAIVis2DGraphVisu.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\ProtectedInterfaces\CAAIVisModelCGRObject.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\ProtectedInterfaces\CAAIVisModelCuboid.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\ProtectedInterfaces\CAAIVisModelObject.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\ProtectedInterfaces\CAAIVisModelSetOfObject.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\ProtectedInterfaces\CAAIVisModelSphere.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\ProtectedInterfaces\CAAVisObjectType.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PublicInterfaces\CAAIVisHistogramChartVisu.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PublicInterfaces\CAAIVisTextModel.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PublicInterfaces\CAAIVisWireBox.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PublicInterfaces\CAAVisGeoModelInt.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PublicInterfaces\CAAVisManagerComp.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PublicInterfaces\CAAVisManagerInt.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PublicInterfaces\CAAVisModelForRep.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAVisualization.edu\PublicInterfaces\CAAVisWireBoxComp.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\CAAVisualization.edu\.installation.mode">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\code\dictionary\CAAVisualization.edu.dico">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\code\dictionary\CAAVisualization.edu.iid">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\cgr\CUBES.cgr">
+      <Filter>CNext\resources\cgr</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\CAAVisBaseApplicationFrame.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\CAAVisBaseViewpointDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\CAAVisBasicWindow.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\CAAVisManagerApplicationFrame.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\CAAVisManagerCxtMenu.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\CAAVisRepWindow.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\French\CAAVisBaseApplicationFrame.CATNls">
+      <Filter>CNext\resources\msgcatalog\French</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\French\CAAVisBaseViewpointDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog\French</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\French\CAAVisBasicWindow.CATNls">
+      <Filter>CNext\resources\msgcatalog\French</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\French\CAAVisManagerApplicationFrame.CATNls">
+      <Filter>CNext\resources\msgcatalog\French</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\French\CAAVisManagerCxtMenu.CATNls">
+      <Filter>CNext\resources\msgcatalog\French</Filter>
+    </None>
+    <None Include="..\..\CAAVisualization.edu\CNext\resources\msgcatalog\French\CAAVisRepWindow.CATNls">
+      <Filter>CNext\resources\msgcatalog\French</Filter>
+    </None>
+  </ItemGroup>
+</Project>

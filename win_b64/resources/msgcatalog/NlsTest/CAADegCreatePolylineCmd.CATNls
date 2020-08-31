@@ -1,0 +1,12 @@
+CAADegCreatePolylineCmd.stRepeatPointId.Message = "[~CAADegCreatePolylineCmd,d.stRepeatPointId.Message~ Sélect, îndic ør entry points, click right to end]";
+CAADegCreatePolylineCmd.PathElementAgentId.UndoTitle = "[~CAADegCreatePolylineCmd,hElementAgentId.UndoTitle~ Undø sélect poînt]";
+CAADegCreatePolylineCmd.stFirstPointId.Message = "[~CAADegCreatePolylineCmd,md.stFirstPointId.Message~ Sélect, îndic ør entry the first point]";
+CAADegCreatePolylineCmd.UndoTitle = "[~CAADegCreatePolylineCmd,eatePolylineCmd.UndoTitle~ Undø Créåte Polylîne]";
+CAADegCreatePolylineCmd.IndicationP1Id.UndoTitle = "[~CAADegCreatePolylineCmd,.IndicationP1Id.UndoTitle~ Undø Indîc point]";
+CAADegCreatePolylineCmd.IndicationP1Id.RedoTitle = "[~CAADegCreatePolylineCmd,.IndicationP1Id.RedoTitle~ Rédø Indîc point]";
+CAADegCreatePolylineCmd.PointEditorId.RedoTitle = "[~CAADegCreatePolylineCmd,d.PointEditorId.RedoTitle~ Rédø coordînåtes point]";
+CAADegCreatePolylineCmd.PathElementAgentId.RedoTitle = "[~CAADegCreatePolylineCmd,hElementAgentId.RedoTitle~ Rédø select poînt]";
+CAADegCreatePolylineCmd.IndicationPNId.RedoTitle = "[~CAADegCreatePolylineCmd,.IndicationPNId.RedoTitle~ Rédø Indîc point]";
+CAADegCreatePolylineCmd.RedoTitle = "[~CAADegCreatePolylineCmd,eatePolylineCmd.RedoTitle~ Rédø Creåte Polylîne]";
+CAADegCreatePolylineCmd.IndicationPNId.UndoTitle = "[~CAADegCreatePolylineCmd,.IndicationPNId.UndoTitle~ Undø Indîc point]";
+CAADegCreatePolylineCmd.PointEditorId.UndoTitle = "[~CAADegCreatePolylineCmd,d.PointEditorId.UndoTitle~ Undø coordînåtés point]";

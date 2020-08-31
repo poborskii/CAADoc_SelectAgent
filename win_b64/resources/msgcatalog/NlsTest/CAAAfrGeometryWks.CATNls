@@ -1,0 +1,15 @@
+CAAAfrFormatMnu.Mnemonic = "[~CAAAfrGeometryWks,CAAAfrFormatMnu.Mnemonic~ t]";
+CAAAfrSelectTlb.Title = "[~CAAAfrGeometryWks,CAAAfrSelectTlb.Title~ Sélect]";
+CAAAfrMLinesSnu.Title = "[~CAAAfrGeometryWks,CAAAfrMLinesSnu.Title~ Mültî Linés]";
+CAAAfrNormalViewSnu.Mnemonic = "[~CAAAfrGeometryWks,AfrNormalViewSnu.Mnemonic~ N]";
+CAAAfrMLinesSnu.Mnemonic = "[~CAAAfrGeometryWks,CAAAfrMLinesSnu.Mnemonic~ L]";
+CAAAfrGeometryWks.LongHelp = "[~CAAAfrGeometryWks,AAAfrGeometryWks.LongHelp~ Thîs is thé Geømetry Workshop. ]\n[~CAAAfrGeometryWks,AAAfrGeometryWks.LongHelp~ It îs üséd tø demonstråte workshops.]";
+CAAAfrExploreMnu.Mnemonic = "[~CAAAfrGeometryWks,CAAAfrExploreMnu.Mnemonic~ x]";
+CAAAfrFormatMnu.Title = "[~CAAAfrGeometryWks,CAAAfrFormatMnu.Title~ Førmåt]";
+CAAAfrNormalViewSnu.Title = "[~CAAAfrGeometryWks,CAAAfrNormalViewSnu.Title~ Nørmål Vîéw]";
+CAAAfrGeometryWks.ShortHelp = "[~CAAAfrGeometryWks,AAfrGeometryWks.ShortHelp~ Géømetry Workshop]";
+CAAAfrGeometryWks.Title = "[~CAAAfrGeometryWks,CAAAfrGeometryWks.Title~ CAA Géømetry]";
+CAAAfrMLinesIcb.Title = "[~CAAAfrGeometryWks,CAAAfrMLinesIcb.Title~ Mültî linés Elements]";
+CAAAfrGeometryWks.Help = "[~CAAAfrGeometryWks,CAAAfrGeometryWks.Help~ Thé Geømetry Workshop]";
+CAAAfrBasicElementTlb.Title = "[~CAAAfrGeometryWks,AAfrBasicElementTlb.Title~ Båsîc Eléments]";
+CAAAfrExploreMnu.Title = "[~CAAAfrGeometryWks,CAAAfrExploreMnu.Title~ Expløré]";

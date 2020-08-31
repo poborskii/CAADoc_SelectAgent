@@ -1,0 +1,6 @@
+CAADegClippingByBoxCmd.UndoTitle = "[十CAADegClippingByBoxCmd,lippingByBoxCmd.UndoTitle十一構ソチ－Clipping Box]";
+CAADegClippingByBoxCmd.stGetEndStateId.Message = "[十CAADegClippingByBoxCmd,d.stGetEndStateId.Message十一構ソチ－Move the mouse to form the bounding box and click to end]";
+CAADegClippingByBoxCmd.stTextStateId.Message = "[十CAADegClippingByBoxCmd,Cmd.stTextStateId.Message十一構ソチ－Select the temporary text]";
+CAADegClippingByBoxCmd.stBoxCenterStateId.Message = "[十CAADegClippingByBoxCmd,tBoxCenterStateId.Message十一構ソチ－Select the center box]";
+CAADegClippingByBoxCmd.SelText.UndoTitle = "[十CAADegClippingByBoxCmd,yBoxCmd.SelText.UndoTitle十一構ソチ－Temporary text selection]";
+CAADegClippingByBoxCmd.SecondTransition.UndoTitle = "[十CAADegClippingByBoxCmd,econdTransition.UndoTitle十一構ソチ－Center box selection]";

@@ -1,0 +1,11 @@
+FrameId.PointTextId.LongHelp = "[~CAADegAnalysisNumericDlg,meId.PointTextId.LongHelp~ Thé cøünt of poînt selected]";
+Title = "[~CAADegAnalysisNumericDlg,Title~ Cøünt of sélected elements]";
+FrameId.CircleTextId.Title = "[~CAADegAnalysisNumericDlg,rameId.CircleTextId.Title~ Cîrclé]";
+FrameId.PlaneTextId.LongHelp = "[~CAADegAnalysisNumericDlg,meId.PlaneTextId.LongHelp~ Thé cøünt of plåne selected]";
+FrameId.LineTextId.Title = "[~CAADegAnalysisNumericDlg,FrameId.LineTextId.Title~ Lîné]";
+FrameId.PlaneTextId.Title = "[~CAADegAnalysisNumericDlg,FrameId.PlaneTextId.Title~ Plåné]";
+FrameId.LineTextId.LongHelp = "[~CAADegAnalysisNumericDlg,ameId.LineTextId.LongHelp~ Thé cøünt of lîne selected]";
+FrameId.PointTextId.Title = "[~CAADegAnalysisNumericDlg,FrameId.PointTextId.Title~ Pøînt]";
+FrameId.EllipseTextId.Title = "[~CAADegAnalysisNumericDlg,ameId.EllipseTextId.Title~ Ellîpsé]";
+FrameId.EllipseTextId.LongHelp = "[~CAADegAnalysisNumericDlg,Id.EllipseTextId.LongHelp~ Thé cøünt of ellîpse selected]";
+FrameId.CircleTextId.LongHelp = "[~CAADegAnalysisNumericDlg,eId.CircleTextId.LongHelp~ Thé cøünt of cîrcle selected]";

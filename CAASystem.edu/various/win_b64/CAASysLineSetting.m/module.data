@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAASysLineSetting.pdb|.\CAASystem.edu\CAASysLineSetting.m
+CSC/000/DSI .\CAASystem.edu\CAASysLineSetting.m\Objects\win_b64\mkcsc\CAASysLineSetting.cscdb|.\CAASystem.edu\CAASysLineSetting.m
+RTV/001/CUS .\win_b64\code\bin\CAASysLineSetting.exe|.\CAASystem.edu\CAASysLineSetting.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

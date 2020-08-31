@@ -1,0 +1,6 @@
+Title = "[十CAAVisManagerApplicationFrame,Title十一構ソチ－CAAVisManagerApplication Sample]";
+MenuBar.File.Exit.Title = "[十CAAVisManagerApplicationFrame,MenuBar.File.Exit.Title十一構ソチ－Exit]";
+FileBrowser.Title = "[十CAAVisManagerApplicationFrame,FileBrowser.Title十一構ソチ－Select a CGR File]";
+MenuBar.File.Title = "[十CAAVisManagerApplicationFrame,MenuBar.File.Title十一構ソチ－File]";
+MenuBar.File.Insert.Title = "[十CAAVisManagerApplicationFrame,MenuBar.File.Insert.Title十一構ソチ－Insert...]";
+MenuBar.File.Open.Title = "[十CAAVisManagerApplicationFrame,MenuBar.File.Open.Title十一構ソチ－Open...]";

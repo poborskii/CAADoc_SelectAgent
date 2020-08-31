@@ -1,0 +1,8 @@
+XFrame.LongHelp = "[~CAAAfrPointEditDlg,XFrame.LongHelp~ éntry x]";
+Title = "[~CAAAfrPointEditDlg,Title~ Pøînt Définition]";
+XFrame.XLabel.Title = "[~CAAAfrPointEditDlg,XFrame.XLabel.Title~ X: ]";
+ZFrame.ZLabel.Title = "[~CAAAfrPointEditDlg,ZFrame.ZLabel.Title~ Z: ]";
+Help = "[~CAAAfrPointEditDlg,Help~ Entér x,y,z tø chånge the poînt position]";
+YFrame.YLabel.Title = "[~CAAAfrPointEditDlg,YFrame.YLabel.Title~ Y: ]";
+ZFrame.LongHelp = "[~CAAAfrPointEditDlg,ZFrame.LongHelp~ éntry z]";
+YFrame.LongHelp = "[~CAAAfrPointEditDlg,YFrame.LongHelp~ éntry y]";

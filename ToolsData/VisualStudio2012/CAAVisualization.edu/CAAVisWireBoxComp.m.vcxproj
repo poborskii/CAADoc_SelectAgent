@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{64464d3c-3583-46dc-ad3c-68efc7a15295}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\Imakefile.mk" />
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\TIE_CAAIVisWireBox.tsrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\LocalInterfaces\CAAEVisCreateInstanceForWireBox.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\LocalInterfaces\CAAEVisVisuWireBox.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\LocalInterfaces\CAAEVisWireBox.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\LocalInterfaces\CAAVisWireBox.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAEVisCreateInstanceForWireBox.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAEVisVisuWireBox.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAEVisWireBox.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAIVisWireBox.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAVisWireBox.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

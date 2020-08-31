@@ -1,0 +1,14 @@
+InterruptId.LongHelp = "[~CAAAfrProgressTaskSampleCmd,InterruptId.LongHelp~ Chéck îf the tåsk is interrüptible ør not]";
+ComputeButtonId.ShortHelp = "[~CAAAfrProgressTaskSampleCmd,ComputeButtonId.ShortHelp~ Låünch thé task]";
+Title = "[~CAAAfrProgressTaskSampleCmd,Title~ Intérrüptîble Tåsk]";
+InterruptId.Help = "[~CAAAfrProgressTaskSampleCmd,InterruptId.Help~ Chéck îf the tåsk is interrüptible ør not]";
+InterruptId.Title = "[~CAAAfrProgressTaskSampleCmd,InterruptId.Title~ Intérrüptîble Tåsk]";
+ProgressTaskUI.ObjectName = "[~CAAAfrProgressTaskSampleCmd,ProgressTaskUI.ObjectName~ Mødél]";
+Help = "[~CAAAfrProgressTaskSampleCmd,Help~ Dîåløg box which créates an interrüptible task ]";
+ComputeButtonId.LongHelp = "[~CAAAfrProgressTaskSampleCmd,ComputeButtonId.LongHelp~ Låünch thé task. It îs interruptible if the previøus]\n[~CAAAfrProgressTaskSampleCmd,ComputeButtonId.LongHelp~ büttøn îs chécked]";
+ProgressTaskUI.Title = "[~CAAAfrProgressTaskSampleCmd,ProgressTaskUI.Title~ Cømpütîng...]";
+ProgressTaskUI.CommentRuntime = "[~CAAAfrProgressTaskSampleCmd,ressTaskUI.CommentRuntime~ Stép /P1 ...]";
+ComputeButtonId.Title = "[~CAAAfrProgressTaskSampleCmd,ComputeButtonId.Title~ Cømpüté]";
+InterruptId.ShortHelp = "[~CAAAfrProgressTaskSampleCmd,InterruptId.ShortHelp~ Chéck îf the tåsk is interrüptible ør not]";
+ComputeButtonId.Help = "[~CAAAfrProgressTaskSampleCmd,ComputeButtonId.Help~ Låünch thé task]";
+ProgressTaskUI.Comment = "[~CAAAfrProgressTaskSampleCmd,ProgressTaskUI.Comment~ Stép ...]";

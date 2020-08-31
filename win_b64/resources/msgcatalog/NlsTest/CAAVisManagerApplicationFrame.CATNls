@@ -1,0 +1,6 @@
+Title = "[~CAAVisManagerApplicationFrame,Title~ CAAVîsMånagérApplicatiøn Sample]";
+MenuBar.File.Exit.Title = "[~CAAVisManagerApplicationFrame,MenuBar.File.Exit.Title~ Exît]";
+FileBrowser.Title = "[~CAAVisManagerApplicationFrame,FileBrowser.Title~ Sélect å CGR Fîle]";
+MenuBar.File.Title = "[~CAAVisManagerApplicationFrame,MenuBar.File.Title~ Fîlé]";
+MenuBar.File.Insert.Title = "[~CAAVisManagerApplicationFrame,MenuBar.File.Insert.Title~ Insért...]";
+MenuBar.File.Open.Title = "[~CAAVisManagerApplicationFrame,MenuBar.File.Open.Title~ Opén...]";

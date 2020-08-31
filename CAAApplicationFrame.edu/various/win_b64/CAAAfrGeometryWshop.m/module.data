@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAAAfrGeometryWshop.dll|.\CAAApplicationFrame.edu\CAAAfrGeometryWshop.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrGeometryWshop.lib|.\CAAApplicationFrame.edu\CAAAfrGeometryWshop.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrGeometryWshop.m\Objects\win_b64\mkcsc\CAAAfrGeometryWshop.cscdb|.\CAAApplicationFrame.edu\CAAAfrGeometryWshop.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrGeometryWshop.pdb|.\CAAApplicationFrame.edu\CAAAfrGeometryWshop.m
+INT/000/CUS .\win_b64\code\lib\CAAAfrGeometryWshop.exp|.\CAAApplicationFrame.edu\CAAAfrGeometryWshop.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

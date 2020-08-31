@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAASysUExitIO.pdb|.\CAASystem.edu\CAASysUExitIO.m
+RTV/001/CUS .\win_b64\code\bin\CAASysUExitIO.dll|.\CAASystem.edu\CAASysUExitIO.m
+BTV/000/CUS .\win_b64\code\lib\CAASysUExitIO.lib|.\CAASystem.edu\CAASysUExitIO.m
+CSC/000/DSI .\CAASystem.edu\CAASysUExitIO.m\Objects\win_b64\mkcsc\CAASysUExitIO.cscdb|.\CAASystem.edu\CAASysUExitIO.m
+INT/000/CUS .\win_b64\code\lib\CAASysUExitIO.exp|.\CAASystem.edu\CAASysUExitIO.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

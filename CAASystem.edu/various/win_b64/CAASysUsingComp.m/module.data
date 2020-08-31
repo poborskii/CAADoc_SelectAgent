@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAASysUsingComp.pdb|.\CAASystem.edu\CAASysUsingComp.m
+RTV/001/CUS .\win_b64\code\bin\CAASysUsingComp.exe|.\CAASystem.edu\CAASysUsingComp.m
+CSC/000/DSI .\CAASystem.edu\CAASysUsingComp.m\Objects\win_b64\mkcsc\CAASysUsingComp.cscdb|.\CAASystem.edu\CAASysUsingComp.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

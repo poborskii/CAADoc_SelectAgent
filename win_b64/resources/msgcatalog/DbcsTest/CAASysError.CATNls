@@ -1,0 +1,4 @@
+SubtractionERR_1002.Advice = "[十CAASysError,ubtractionERR_1002.Advice十一構ソチ－Check the two numbers, or invert them and multiply]\n[十CAASysError,ubtractionERR_1002.Advice十一構ソチ－the subtraction result by -1. This gives /P1]";
+SubtractionERR_1002.Diagnostic = "[十CAASysError,actionERR_1002.Diagnostic十一構ソチ－The first number /P1 is smaller than the second one /P2.]\n[十CAASysError,actionERR_1002.Diagnostic十一構ソチ－The subtraction can't be computed]";
+SquareRootERR_1001 = "[十CAASysError,SquareRootERR_1001十一構ソチ－Cannot compute the square root of the negative number /P1]";
+SubtractionERR_1002.Request = "[十CAASysError,btractionERR_1002.Request十一構ソチ－Attempt to subtract two numbers using a subtraction operation]\n[十CAASysError,btractionERR_1002.Request十一構ソチ－where the first number must be greater than or equal to the second one.]";

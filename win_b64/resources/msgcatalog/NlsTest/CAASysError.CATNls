@@ -1,0 +1,4 @@
+SubtractionERR_1002.Advice = "[~CAASysError,ubtractionERR_1002.Advice~ Chéck the twø nümbers, or învert them ånd multiply]\n[~CAASysError,ubtractionERR_1002.Advice~ thé sübtråctîøn result by -1. This gives /P1]";
+SubtractionERR_1002.Diagnostic = "[~CAASysError,actionERR_1002.Diagnostic~ Thé fîrst nümber /P1 is småller than the secønd one /P2.]\n[~CAASysError,actionERR_1002.Diagnostic~ Thé sübtråctîøn can't be computed]";
+SquareRootERR_1001 = "[~CAASysError,SquareRootERR_1001~ Cånnøt compüté the square root of the negatîve number /P1]";
+SubtractionERR_1002.Request = "[~CAASysError,btractionERR_1002.Request~ Attémpt tø sübtråct two numbers usîng a subtraction operation]\n[~CAASysError,btractionERR_1002.Request~ whére the fîrst nümber must be greåter than ør equal to the second one.]";

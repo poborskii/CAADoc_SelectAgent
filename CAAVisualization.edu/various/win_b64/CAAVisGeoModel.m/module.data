@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAAVisGeoModel.pdb|.\CAAVisualization.edu\CAAVisGeoModel.m
+RTV/001/CUS .\win_b64\code\bin\CAAVisGeoModel.dll|.\CAAVisualization.edu\CAAVisGeoModel.m
+CSC/000/DSI .\CAAVisualization.edu\CAAVisGeoModel.m\Objects\win_b64\mkcsc\CAAVisGeoModel.cscdb|.\CAAVisualization.edu\CAAVisGeoModel.m
+INT/000/CUS .\win_b64\code\lib\CAAVisGeoModel.exp|.\CAAVisualization.edu\CAAVisGeoModel.m
+BTV/000/CUS .\win_b64\code\lib\CAAVisGeoModel.lib|.\CAAVisualization.edu\CAAVisGeoModel.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{b3011d0a-14cf-4f6e-8053-23f01574066d}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\Imakefile.mk" />
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\TIE_CAAIVis2DGraphVisu.tsrc" />
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\TIE_CAAIVisModelCGRObject.tsrc" />
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\TIE_CAAIVisModelCuboid.tsrc" />
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\TIE_CAAIVisModelObject.tsrc" />
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\TIE_CAAIVisModelSetOfObject.tsrc" />
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\TIE_CAAIVisModelSphere.tsrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\CAAIVis2DGraphVisu.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\CAAIVisModelCGRObject.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\CAAIVisModelCuboid.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\CAAIVisModelObject.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\CAAIVisModelSetOfObject.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerInt.m\src\CAAIVisModelSphere.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

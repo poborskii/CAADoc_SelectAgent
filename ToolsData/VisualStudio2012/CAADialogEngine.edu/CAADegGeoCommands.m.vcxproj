@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{ff78b046-b774-45a0-a14a-c5fd877de24a}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\Imakefile.mk" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegAnalysisEltTypeCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegAnalysisLogCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegAnalysisNumericCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegAnalysisNumericDlg.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegBoxCreationChoiceNotification.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegBoxPaletteChoiceCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegChoiceBehaviorDlg.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegClippingByBoxCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegClippingBySphereCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreateBoxCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreateCircleCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreateCylinder1Cmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreateCylinder2Cmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreateEllipseCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreateLineCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreatePlaneCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreatePointCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreatePolylineBy2TrianglesCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreatePolylineCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreateRectangleCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegCreateTriangleCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegEditor1DeselectedNotification.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegEditor1SelectedNotification.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegHistogramChartWindowCmd.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegHstChartWndDlg.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegPointEditor.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegPointErrorBox.h" />
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\LocalInterfaces\CAADegRadiusEllipseEditor.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegAnalysisEltTypeCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegAnalysisLogCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegAnalysisNumericCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegAnalysisNumericDlg.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegBoxCreationChoiceNotification.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegBoxPaletteChoiceCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegChoiceBehaviorDlg.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegClippingByBoxCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegClippingBySphereCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreateBoxCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreateCircleCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreateCylinder1Cmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreateCylinder2Cmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreateEllipseCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreateLineCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreatePlaneCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreatePointCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreatePolylineBy2TrianglesCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreatePolylineCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreateRectangleCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegCreateTriangleCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegEditor1DeselectedNotification.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegEditor1SelectedNotification.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegHistogramChartWindowCmd.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegHstChartWndDlg.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegPointEditor.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegPointErrorBox.cpp" />
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegGeoCommands.m\src\CAADegRadiusEllipseEditor.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

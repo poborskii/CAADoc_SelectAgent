@@ -1,0 +1,4 @@
+CAADegCreateRectangleCmd.stGetLastPointStateId.Message = "[十CAADegCreateRectangleCmd,tLastPointStateId.Message十一構ソチ－Move the mouse and click to ended]";
+CAADegCreateRectangleCmd.stGetFirstPointStateId.Message = "[十CAADegCreateRectangleCmd,FirstPointStateId.Message十一構ソチ－Indicate the First point]";
+CAADegCreateRectangleCmd.stPlaneStateId.Message = "[十CAADegCreateRectangleCmd,md.stPlaneStateId.Message十一構ソチ－Select the projection plane]";
+CAADegCreateRectangleCmd.UndoTitle = "[十CAADegCreateRectangleCmd,ateRectangleCmd.UndoTitle十一構ソチ－Rectangle]";

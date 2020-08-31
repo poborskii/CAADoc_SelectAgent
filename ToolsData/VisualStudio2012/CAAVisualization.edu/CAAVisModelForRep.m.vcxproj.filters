@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{b1bb2442-09fc-4aa3-9dd5-2f7306b9134d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{daa80a69-25c6-4566-9ffc-376a6a1128b1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisModelForRep.m\src\CAAEVisCreateInstanceForTextModel.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisModelForRep.m\src\CAAIVisTextModel.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisModelForRep.m\src\CAAVisTextModel.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisModelForRep.m\LocalInterfaces\CAAEVisCreateInstanceForTextModel.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisModelForRep.m\LocalInterfaces\CAAVisTextModel.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisModelForRep.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisModelForRep.m\src\TIE_CAAIVisTextModel.tsrc">
+      <Filter>src</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+FrameGraphicId.Title = "[十CAADegHstChartWndDlg,FrameGraphicId.Title十一構ソチ－Graphic]";
+FrameGraphicId.PositionId.Title = "[十CAADegHstChartWndDlg,raphicId.PositionId.Title十一構ソチ－Position:  ]";
+FrameGraphicId.HorizontId.Title = "[十CAADegHstChartWndDlg,raphicId.HorizontId.Title十一構ソチ－Horizontal]";
+FrameMaxHeightId.Point1Id.Title = "[十CAADegHstChartWndDlg,axHeightId.Point1Id.Title十一構ソチ－Point 1:]";
+MessageNoChoosen = "[十CAADegHstChartWndDlg,MessageNoChoosen十一構ソチ－No Indication ]";
+Title = "[十CAADegHstChartWndDlg,Title十一構ソチ－Customization of the Histogram Chart Window]";
+FrameMaxHeightId.MaxHeightId.Title = "[十CAADegHstChartWndDlg,eightId.MaxHeightId.Title十一構ソチ－Height Max(mm)=]";
+FrameMaxHeightId.Point2Id.Title = "[十CAADegHstChartWndDlg,axHeightId.Point2Id.Title十一構ソチ－Point 2:]";
+FrameGraphicId.VerticalId.Title = "[十CAADegHstChartWndDlg,raphicId.VerticalId.Title十一構ソチ－Vertical]";
+FrameMaxHeightId.Title = "[十CAADegHstChartWndDlg,FrameMaxHeightId.Title十一構ソチ－Max Height Definition]";

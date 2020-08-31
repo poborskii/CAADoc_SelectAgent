@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4487A113-433C-45F7-BC74-872001F7873E}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\CAASystem.edu\.installation.mode" />
+    <None Include="..\..\CAASystem.edu\CNext\code\dictionary\CAASystem.edu.clsid" />
+    <None Include="..\..\CAASystem.edu\CNext\code\dictionary\CAASystem.edu.dico" />
+    <None Include="..\..\CAASystem.edu\CNext\code\dictionary\CAASystem.edu.iid" />
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\CAASysCharStrings.CATNls" />
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\CAASysError.CATNls" />
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\CAASysNotToTranslateCharStrings.CATRsc" />
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\French\CAASysCharStrings.CATNls" />
+    <None Include="..\..\CAASystem.edu\CNext\resources\msgcatalog\French\CAASysError.CATNls" />
+    <None Include="..\..\CAASystem.edu\PublicInterfaces\CAAIASysSprocket.idl" />
+    <None Include="..\..\CAASystem.edu\PublicInterfaces\CAAIASysSprockets.idl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAASystem.edu\IdentityCard\IdentityCard.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PrivateInterfaces\CAAISysDataRequest.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PrivateInterfaces\CAASysBBMessageInt.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PrivateInterfaces\CAASysTypeLib.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysAccess.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCircle.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCircleCenterProperties.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCollection.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysColorProperties.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCuboid.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysCylinder.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysDocumentChartWindow.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysEllipse.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysGeomFactory.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysInterface.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysLine.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysMyInterface.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysName.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysPlane.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysPoint.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysPointProperties.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysPolyline.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAAISysTextureProperties.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysAutomationImpl.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysCollectionEmptyNotif.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysCollectionFilledNotif.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysCollectionModifNotif.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysCollectionNotification.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysComponentCLSID.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysComponentInt.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysGeoModelComp.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysGeoModelInf.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysInterface.h" />
+    <ClInclude Include="..\..\CAASystem.edu\PublicInterfaces\CAASysSprocketFactory.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

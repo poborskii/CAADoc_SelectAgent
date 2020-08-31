@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\CAASystem.edu\CAASysBackboneBasic.m\Objects\win_b64\mkcsc\CAASysBackboneBasic.cscdb|.\CAASystem.edu\CAASysBackboneBasic.m
+RTV/001/CUS .\win_b64\code\bin\CAASysBackboneBasic.exe|.\CAASystem.edu\CAASysBackboneBasic.m
+INT/000/CUS .\win_b64\code\bin\CAASysBackboneBasic.pdb|.\CAASystem.edu\CAASysBackboneBasic.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

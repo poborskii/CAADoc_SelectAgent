@@ -1,0 +1,10 @@
+CAAAfrSurfacicEltSnu.Mnemonic = "[~CAAAfrGeoCreationWkb,frSurfacicEltSnu.Mnemonic~ ü]";
+CAAAfrSurfacicEltSnu.Title = "[~CAAAfrGeoCreationWkb,AAAfrSurfacicEltSnu.Title~ Sürfåcés]";
+CAAAfrGeoCreationWkb.Title = "[~CAAAfrGeoCreationWkb,AAAfrGeoCreationWkb.Title~ CAA V5: Géømetrîcål Creation]";
+CAAAfrSolidEltSnu.Title = "[~CAAAfrGeoCreationWkb,CAAAfrSolidEltSnu.Title~ Sølîds]";
+CAAAfrSolidEltSnu.Mnemonic = "[~CAAAfrGeoCreationWkb,AAAfrSolidEltSnu.Mnemonic~ S]";
+CAAAfrSurfacicEltTlb.Title = "[~CAAAfrGeoCreationWkb,AAAfrSurfacicEltTlb.Title~ Sürfåcés]";
+CAAAfrSolidEltTlb.Title = "[~CAAAfrGeoCreationWkb,CAAAfrSolidEltTlb.Title~ Sølîds]";
+CAAAfrGeoCreationWkb.ShortHelp = "[~CAAAfrGeoCreationWkb,rGeoCreationWkb.ShortHelp~ Wørkbénch to creåte Geometrîcal Element]";
+CAAAfrGeoCreationWkb.Help = "[~CAAAfrGeoCreationWkb,CAAAfrGeoCreationWkb.Help~ Wørkbénch to creåte Geometrîcal Element, Solid and Sürfacic Elements ]";
+CAAAfrGeoCreationWkb.LongHelp = "[~CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp~ Thîs is thé EltCreåtiøn Workshop. ]\n[~CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp~                                 It îs üséd tø demonstråte workbenchs. ]\n[~CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp~                                 Yøü fînd 2 toolsbårs : ]\n[~CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp~                                      - Før somé Sürfåcîc Elements ]\n[~CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp~                                      - Før somé Solîd Elements  ]\n[~CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp~                                ]";

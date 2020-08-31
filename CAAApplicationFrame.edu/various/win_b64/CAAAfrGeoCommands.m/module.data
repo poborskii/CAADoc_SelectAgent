@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAAAfrGeoCommands.pdb|.\CAAApplicationFrame.edu\CAAAfrGeoCommands.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrGeoCommands.m\Objects\win_b64\mkcsc\CAAAfrGeoCommands.cscdb|.\CAAApplicationFrame.edu\CAAAfrGeoCommands.m
+INT/000/CUS .\win_b64\code\lib\CAAAfrGeoCommands.exp|.\CAAApplicationFrame.edu\CAAAfrGeoCommands.m
+RTV/001/CUS .\win_b64\code\bin\CAAAfrGeoCommands.dll|.\CAAApplicationFrame.edu\CAAAfrGeoCommands.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrGeoCommands.lib|.\CAAApplicationFrame.edu\CAAAfrGeoCommands.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

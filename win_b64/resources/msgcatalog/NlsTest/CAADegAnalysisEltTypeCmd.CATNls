@@ -1,0 +1,7 @@
+PointTitle = "[~CAADegAnalysisEltTypeCmd,PointTitle~ Pøînt]";
+EllipseTitle = "[~CAADegAnalysisEltTypeCmd,EllipseTitle~ Ellîpsé]";
+CAADegAnalysisEltTypeCmd.stBackGroundStateId.Message = "[~CAADegAnalysisEltTypeCmd,BackGroundStateId.Message~ Sélect the Båckgrøünd wîth the right button]";
+CAADegAnalysisEltTypeCmd.UndoTitle = "[~CAADegAnalysisEltTypeCmd,lysisEltTypeCmd.UndoTitle~ Typé øf Element]";
+LineTitle = "[~CAADegAnalysisEltTypeCmd,LineTitle~ Lîné]";
+CircleTitle = "[~CAADegAnalysisEltTypeCmd,CircleTitle~ Cîrclé]";
+PlaneTitle = "[~CAADegAnalysisEltTypeCmd,PlaneTitle~ Plåné]";

@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CAAAfrSampleDocument.exp|.\CAAApplicationFrame.edu\CAAAfrSampleDocument.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\Objects\win_b64\mkcsc\CAAAfrSampleDocument.cscdb|.\CAAApplicationFrame.edu\CAAAfrSampleDocument.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrSampleDocument.pdb|.\CAAApplicationFrame.edu\CAAAfrSampleDocument.m
+RTV/001/CUS .\win_b64\code\bin\CAAAfrSampleDocument.dll|.\CAAApplicationFrame.edu\CAAAfrSampleDocument.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrSampleDocument.lib|.\CAAApplicationFrame.edu\CAAAfrSampleDocument.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

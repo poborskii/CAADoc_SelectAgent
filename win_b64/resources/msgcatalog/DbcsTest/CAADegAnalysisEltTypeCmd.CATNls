@@ -1,0 +1,7 @@
+PointTitle = "[十CAADegAnalysisEltTypeCmd,PointTitle十一構ソチ－Point]";
+EllipseTitle = "[十CAADegAnalysisEltTypeCmd,EllipseTitle十一構ソチ－Ellipse]";
+CAADegAnalysisEltTypeCmd.stBackGroundStateId.Message = "[十CAADegAnalysisEltTypeCmd,BackGroundStateId.Message十一構ソチ－Select the Background with the right button]";
+CAADegAnalysisEltTypeCmd.UndoTitle = "[十CAADegAnalysisEltTypeCmd,lysisEltTypeCmd.UndoTitle十一構ソチ－Type of Element]";
+LineTitle = "[十CAADegAnalysisEltTypeCmd,LineTitle十一構ソチ－Line]";
+CircleTitle = "[十CAADegAnalysisEltTypeCmd,CircleTitle十一構ソチ－Circle]";
+PlaneTitle = "[十CAADegAnalysisEltTypeCmd,PlaneTitle十一構ソチ－Plane]";

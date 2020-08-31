@@ -1,0 +1,13 @@
+Title = "[十CAAVisBaseApplicationFrame,Title十一構ソチ－Visualization Basic Sample]";
+MenuBar.File.Exit.Title = "[十CAAVisBaseApplicationFrame,MenuBar.File.Exit.Title十一構ソチ－Exit]";
+MenuBar.Render.Title = "[十CAAVisBaseApplicationFrame,MenuBar.Render.Title十一構ソチ－Render]";
+MenuBar.Viewpoint.Reframe.Title = "[十CAAVisBaseApplicationFrame,r.Viewpoint.Reframe.Title十一構ソチ－Reframe]";
+FileBrowser.Title = "[十CAAVisBaseApplicationFrame,FileBrowser.Title十一構ソチ－Select a CGR File]";
+MenuBar.File.Title = "[十CAAVisBaseApplicationFrame,MenuBar.File.Title十一構ソチ－File]";
+MenuBar.File.Insert.Title = "[十CAAVisBaseApplicationFrame,MenuBar.File.Insert.Title十一構ソチ－Insert...]";
+MenuBar.Render.RenderBE.Title = "[十CAAVisBaseApplicationFrame,Bar.Render.RenderBE.Title十一構ソチ－Render Bounding Boxes]";
+MenuBar.Manipulator.Title = "[十CAAVisBaseApplicationFrame,MenuBar.Manipulator.Title十一構ソチ－Manipulator]";
+MenuBar.File.Open.Title = "[十CAAVisBaseApplicationFrame,MenuBar.File.Open.Title十一構ソチ－Open...]";
+MenuBar.Viewpoint.ModifyViewpoint.Title = "[十CAAVisBaseApplicationFrame,int.ModifyViewpoint.Title十一構ソチ－Modify]";
+MenuBar.Manipulator.Manipulator.Title = "[十CAAVisBaseApplicationFrame,pulator.Manipulator.Title十一構ソチ－Manipulator]";
+MenuBar.Viewpoint.Title = "[十CAAVisBaseApplicationFrame,MenuBar.Viewpoint.Title十一構ソチ－Viewpoint]";

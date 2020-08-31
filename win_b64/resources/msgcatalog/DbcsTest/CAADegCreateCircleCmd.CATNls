@@ -1,0 +1,4 @@
+CAADegCreateCircleCmd.stGetCircleCenterId.Message = "[十CAADegCreateCircleCmd,GetCircleCenterId.Message十一構ソチ－Indicate the circle center]";
+CAADegCreateCircleCmd.stGetRadiusId.Message = "[十CAADegCreateCircleCmd,Cmd.stGetRadiusId.Message十一構ソチ－Move the mouse and click to ended]";
+CAADegCreateCircleCmd.stGetPlaneId.Message = "[十CAADegCreateCircleCmd,eCmd.stGetPlaneId.Message十一構ソチ－Select the projection plane]";
+CAADegCreateCircleCmd.UndoTitle = "[十CAADegCreateCircleCmd,CreateCircleCmd.UndoTitle十一構ソチ－Circle]";

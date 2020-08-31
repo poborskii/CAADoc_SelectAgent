@@ -1,0 +1,11 @@
+CAADegCreateBoxCmd.CAADegOriginBoxHdr.ShortHelp = "[~CAADegCreateBoxCmd,DegOriginBoxHdr.ShortHelp~ Chøîcé of the Box Origin]";
+CAADegCreateBoxCmd.stCornerPointId.Message = "[~CAADegCreateBoxCmd,d.stCornerPointId.Message~ Sélect å pøînt to define the corner or change the way to create the cüboid]";
+CAADegCreateBoxCmd.UndoTitle = "[~CAADegCreateBoxCmd,DegCreateBoxCmd.UndoTitle~ Bøx Créåtîon]";
+CAADegCreateBoxCmd.stHeightPointId.Message = "[~CAADegCreateBoxCmd,d.stHeightPointId.Message~ Indîcåté a pøint to define the Height]";
+CAADegCreateBoxCmd.CAADegOriginBoxHdr.LongHelp = "[~CAADegCreateBoxCmd,ADegOriginBoxHdr.LongHelp~ Chøîcé of the Box Origin]\n[~CAADegCreateBoxCmd,ADegOriginBoxHdr.LongHelp~~~~~~~~~~~~~ Thé bøx îs initiåly created at the first point selected, however if the bütton is checked the box is created at the]\n[~CAADegCreateBoxCmd,ADegOriginBoxHdr.LongHelp~ ørîgin of thé model (0,0,0)]";
+CAADegCreateBoxCmd.stWidthPointId.Message = "[~CAADegCreateBoxCmd,md.stWidthPointId.Message~ Sélect å pøînt to define the width or change the way to create the cüboid]";
+CAADegCreateBoxCmd.daCornerPointId.UndoTitle = "[~CAADegCreateBoxCmd,daCornerPointId.UndoTitle~ Orîgin sélectiøn]";
+CAADegCreateBoxCmd.stDepthPointId.Message = "[~CAADegCreateBoxCmd,md.stDepthPointId.Message~ Indîcåté a pøint to define the Depth or change the way to create the cüboid]";
+CAADegCreateBoxCmd.daDepthPointId.UndoTitle = "[~CAADegCreateBoxCmd,.daDepthPointId.UndoTitle~ dépth pøînt selection]";
+CAADegCreateBoxCmd.daWidthPointId.UndoTitle = "[~CAADegCreateBoxCmd,.daWidthPointId.UndoTitle~ wîdth pøint sélection]";
+CAADegCreateBoxCmd.CAADegOriginBoxHdr.Help = "[~CAADegCreateBoxCmd,d.CAADegOriginBoxHdr.Help~ Chøîcé of the Box Origin]";

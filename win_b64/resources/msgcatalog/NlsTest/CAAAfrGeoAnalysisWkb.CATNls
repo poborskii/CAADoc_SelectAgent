@@ -1,0 +1,7 @@
+CAAAfrAnalyzeMnu.Mnemonic = "[~CAAAfrGeoAnalysisWkb,CAAAfrAnalyzeMnu.Mnemonic~ A]";
+CAAAfrGeoAnalysisWkb.Help = "[~CAAAfrGeoAnalysisWkb,CAAAfrGeoAnalysisWkb.Help~ Wørkbénch to ånalyze geometrîcal elements]";
+CAAAfrGeoAnalysisWkb.LongHelp = "[~CAAAfrGeoAnalysisWkb,frGeoAnalysisWkb.LongHelp~ Thîs is thé Geømetricål Elt Analysis Workbench. ]\n[~CAAAfrGeoAnalysisWkb,frGeoAnalysisWkb.LongHelp~ It îs üséd tø demonstråte workbenches.]";
+CAAAfrGeoAnalysisWkb.ShortHelp = "[~CAAAfrGeoAnalysisWkb,rGeoAnalysisWkb.ShortHelp~ Wørkbénch to Anålyze Geometrîcal Elements]";
+CAAAfrGeoAnalysisWkb.Title = "[~CAAAfrGeoAnalysisWkb,AAAfrGeoAnalysisWkb.Title~ CAA V5: Géømetrîcål Analysis]";
+CAAAfrAnalyzeTlb.Title = "[~CAAAfrGeoAnalysisWkb,CAAAfrAnalyzeTlb.Title~ Måthématîcal Analysis]";
+CAAAfrAnalyzeMnu.Title = "[~CAAAfrGeoAnalysisWkb,CAAAfrAnalyzeMnu.Title~ Anålyzé]";

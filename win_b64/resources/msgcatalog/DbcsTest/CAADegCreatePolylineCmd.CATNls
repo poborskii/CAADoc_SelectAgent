@@ -1,0 +1,12 @@
+CAADegCreatePolylineCmd.stRepeatPointId.Message = "[十CAADegCreatePolylineCmd,d.stRepeatPointId.Message十一構ソチ－Select, indic or entry points, click right to end]";
+CAADegCreatePolylineCmd.PathElementAgentId.UndoTitle = "[十CAADegCreatePolylineCmd,hElementAgentId.UndoTitle十一構ソチ－Undo select point]";
+CAADegCreatePolylineCmd.stFirstPointId.Message = "[十CAADegCreatePolylineCmd,md.stFirstPointId.Message十一構ソチ－Select, indic or entry the first point]";
+CAADegCreatePolylineCmd.UndoTitle = "[十CAADegCreatePolylineCmd,eatePolylineCmd.UndoTitle十一構ソチ－Undo Create Polyline]";
+CAADegCreatePolylineCmd.IndicationP1Id.UndoTitle = "[十CAADegCreatePolylineCmd,.IndicationP1Id.UndoTitle十一構ソチ－Undo Indic point]";
+CAADegCreatePolylineCmd.IndicationP1Id.RedoTitle = "[十CAADegCreatePolylineCmd,.IndicationP1Id.RedoTitle十一構ソチ－Redo Indic point]";
+CAADegCreatePolylineCmd.PointEditorId.RedoTitle = "[十CAADegCreatePolylineCmd,d.PointEditorId.RedoTitle十一構ソチ－Redo coordinates point]";
+CAADegCreatePolylineCmd.PathElementAgentId.RedoTitle = "[十CAADegCreatePolylineCmd,hElementAgentId.RedoTitle十一構ソチ－Redo select point]";
+CAADegCreatePolylineCmd.IndicationPNId.RedoTitle = "[十CAADegCreatePolylineCmd,.IndicationPNId.RedoTitle十一構ソチ－Redo Indic point]";
+CAADegCreatePolylineCmd.RedoTitle = "[十CAADegCreatePolylineCmd,eatePolylineCmd.RedoTitle十一構ソチ－Redo Create Polyline]";
+CAADegCreatePolylineCmd.IndicationPNId.UndoTitle = "[十CAADegCreatePolylineCmd,.IndicationPNId.UndoTitle十一構ソチ－Undo Indic point]";
+CAADegCreatePolylineCmd.PointEditorId.UndoTitle = "[十CAADegCreatePolylineCmd,d.PointEditorId.UndoTitle十一構ソチ－Undo coordinates point]";

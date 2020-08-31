@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4D86A664-A8C9-4BF0-95A9-36376F9D1B17}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\CAAApplicationFrame.edu\.installation.mode" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\AnaWb\AnaWbboundingelement.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\AnaWb\AnaWbCAAProductLinetoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\AnaWb\AnaWbpr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\AnaWb\AnaWbtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CAAProductLine\AnaWbCAAProductLinebnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CAAProductLine\AnaWbCAAProductLinefrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CAAProductLine\CAAProductLinebnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CAAProductLine\CreWbCAAProductLinebnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CAAProductLine\CreWbCAAProductLinefrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CAAProductLine\GeoWsCAAProductLinebnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CAAProductLine\GeoWsCAAProductLinefrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CreWb\CreWbCAAProductLinetoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CreWb\CreWbcuboid.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CreWb\CreWbcylinder1.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CreWb\CreWbcylinder2.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CreWb\CreWbpr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CreWb\CreWbtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\CreWb\Elements.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\GeoWs\GeoWsCAAProductLinetoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\GeoWs\GeoWsChartWindow.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\GeoWs\GeoWsdump.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\GeoWs\GeoWsexplore.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\GeoWs\GeoWsplane.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\GeoWs\GeoWspoint.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\GeoWs\GeoWspr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\GeoWs\GeoWstoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\HomePage.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\icons_CAAProductLine\no_navigation.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\images\icon_home.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\images\logoAnaWb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\images\logocompany.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\images\logoCreWb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\images\logoGeoWs.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\images\logoPLine.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\images\tocbg.jpg" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\online\French\images\tocbl.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\French\resources\msgcatalog\French\CAAProdLineId2url.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\AnaWb\AnaWbboundingelement.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\AnaWb\AnaWbCAAProductLinetoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\AnaWb\AnaWbpr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\AnaWb\AnaWbtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CAAProductLine\AnaWbCAAProductLinebnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CAAProductLine\AnaWbCAAProductLinefrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CAAProductLine\CAAProductLinebnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CAAProductLine\CreWbCAAProductLinebnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CAAProductLine\CreWbCAAProductLinefrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CAAProductLine\GeoWsCAAProductLinebnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CAAProductLine\GeoWsCAAProductLinefrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CreWb\CreWbCAAProductLinetoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CreWb\CreWbcuboid.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CreWb\CreWbcylinder1.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CreWb\CreWbcylinder2.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CreWb\CreWbpr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CreWb\CreWbtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\CreWb\Elements.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\GeoWs\GeoWsCAAProductLinetoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\GeoWs\GeoWsChartWindow.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\GeoWs\GeoWsdump.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\GeoWs\GeoWsexplore.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\GeoWs\GeoWsplane.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\GeoWs\GeoWspoint.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\GeoWs\GeoWspr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\GeoWs\GeoWstoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\HomePage.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\icons_CAAProductLine\no_navigation.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\images\icon_home.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\images\logoAnaWb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\images\logocompany.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\images\logoCreWb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\images\logoGeoWs.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\images\logoPLine.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\images\tocbg.jpg" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\online\images\tocbl.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADocProductLine\resources\msgcatalog\CAAProdLineId2url.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\AnaWb_C2\AnaWbboundingelement.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\AnaWb_C2\AnaWbCATIAtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\AnaWb_C2\AnaWbpr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\AnaWb_C2\AnaWbtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CATIAfr_C2\AnaWbCATIAbnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CATIAfr_C2\AnaWbCATIAfrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CATIAfr_C2\CATIAbnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CATIAfr_C2\CreWbCATIAbnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CATIAfr_C2\CreWbCATIAfrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CATIAfr_C2\GeoWsCATIAbnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CATIAfr_C2\GeoWsCATIAfrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CreWb_C2\CreWbCATIAtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CreWb_C2\CreWbcuboid.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CreWb_C2\CreWbcylinder1.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CreWb_C2\CreWbcylinder2.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CreWb_C2\CreWbpr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CreWb_C2\CreWbtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\CreWb_C2\Elements.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\GeoWs_C2\GeoWsCATIAtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\GeoWs_C2\GeoWsChartWindow.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\GeoWs_C2\GeoWsdump.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\GeoWs_C2\GeoWsexplore.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\GeoWs_C2\GeoWsplane.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\GeoWs_C2\GeoWspoint.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\GeoWs_C2\GeoWspr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\GeoWs_C2\GeoWstoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\HomePage.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\icons_C2\no_navigation.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\images\icon_home.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\images\logoAnaWb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\images\logoCATIA.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\images\logocompany.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\images\logoCreWb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\images\logoGeoWs.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\images\tocbg.jpg" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\online\French\images\tocbl.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\French\resources\msgcatalog\French\CommonId2url.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\AnaWb_C2\AnaWbboundingelement.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\AnaWb_C2\AnaWbCATIAtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\AnaWb_C2\AnaWbpr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\AnaWb_C2\AnaWbtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CATIAfr_C2\AnaWbCATIAbnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CATIAfr_C2\AnaWbCATIAfrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CATIAfr_C2\CATIAbnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CATIAfr_C2\CreWbCATIAbnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CATIAfr_C2\CreWbCATIAfrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CATIAfr_C2\GeoWsCATIAbnr.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CATIAfr_C2\GeoWsCATIAfrs.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CreWb_C2\CreWbCATIAtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CreWb_C2\CreWbcuboid.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CreWb_C2\CreWbcylinder1.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CreWb_C2\CreWbcylinder2.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CreWb_C2\CreWbpr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CreWb_C2\CreWbtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\CreWb_C2\Elements.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\GeoWs_C2\GeoWsCATIAtoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\GeoWs_C2\GeoWsChartWindow.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\GeoWs_C2\GeoWsdump.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\GeoWs_C2\GeoWsexplore.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\GeoWs_C2\GeoWsplane.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\GeoWs_C2\GeoWspoint.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\GeoWs_C2\GeoWspr01.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\GeoWs_C2\GeoWstoc.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\HomePage.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\icons_C2\no_navigation.htm" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\images\icon_home.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\images\logoAnaWb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\images\logoCATIA.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\images\logocompany.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\images\logoCreWb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\images\logoGeoWs.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\images\tocbg.jpg" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\online\images\tocbl.gif" />
+    <None Include="..\..\CAAApplicationFrame.edu\CAADoc\resources\msgcatalog\CommonId2url.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\code\dictionary\CAAApplicationFrame.edu.dico" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\code\dictionary\CAAApplicationFrame.edu.fact" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\code\dictionary\CAAApplicationFrame.edu.iid" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAABackgroundIX.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAABackgroundNT.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAADecorationP1.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAADecorationP2.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAALogoP1IX.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAALogoP1NT.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAALogoP2IX.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAALogoP2NT.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAAProduct.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\CAASplash.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\IF_CAAFrameTriangle.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\IP_CAAFrameTriangle.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAA2Triangles.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAABoundingSphere.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAABox.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAACircle.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAACircleWindow.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAClippingPlane.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAClippingSphere.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAACube.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAACylinder1.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAACylinder2.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAADimCoord2D.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAEllipse.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAFillet.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAFind.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAFrameTriangle.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAGroupElt.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAHistogram.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAALine.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAMRUAddItem.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAANurbsSurface.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAOffsetSurface.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAPlane.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAPoint.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAPointsSpaces.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAPolyline.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAProgressClock.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAProgressTask.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAARectangle.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAARevolutionSurface.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAASearch.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAASphere.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAASubstract.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAATorus.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAUnion.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_CAAViewerFeedback.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_WkAsCAAAfrGeoAnalysisWkb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_WkAsCAAAfrGeoCreationWkb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_WkCAAAfrGeoAnalysisWkb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_WkCAAAfrGeoCreationWkb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_WkNvCAAAfrGeoAnalysisWkb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\graphic\icons\normal\I_WkNvCAAAfrGeoCreationWkb.bmp" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrBoundingElementCmd.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrComboColorHeader.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrCustomWindow.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrDumpCmd.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrDumpCommandHeader.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrDumpCommandHeader.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeneralWksAddinHeader.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeneralWksAddinHeader.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeneralWksAdn.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoAnalysisWkb.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoAnalysisWkb.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoAnalysisWkbHeader.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoAnalysisWkbHeader.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoChartWindowAdn.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoChartWindowAdnHeader.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoChartWindowAdnHeader.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoClippingAdn.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoClippingAdnHeader.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoClippingAdnHeader.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoCreationWkb.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoCreationWkb.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoCreationWkbHeader.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoCreationWkbHeader.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeometryWks.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeometryWksHeader.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeometryWksHeader.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoOperationAdn.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoOperationAdnHeader.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrGeoOperationAdnHeader.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrHistogramChartWindow.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrMRUAddElementCmd.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrMRUSelElementCmd.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrPlaneEditCmd.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrPointEditDlg.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAAfrProgressTaskSampleCmd.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAProductLine.CATNls" />
+    <None Include="..\..\CAAApplicationFrame.edu\CNext\resources\msgcatalog\CAAProductLine.CATRsc" />
+    <None Include="..\..\CAAApplicationFrame.edu\InputData\CAAAfrPart1.CATPart" />
+    <None Include="..\..\CAAApplicationFrame.edu\InputData\CAAAfrPart2.CATPart" />
+    <None Include="..\..\CAAApplicationFrame.edu\InputData\CAAAfrProduct.CATProduct" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\IdentityCard\IdentityCard.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PrivateInterfaces\CAAAfrComboColorHeader.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PrivateInterfaces\CAAAfrCustomizedCommandHeader.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PrivateInterfaces\CAAAfrCustomWindow.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PrivateInterfaces\CAAAfrEltCountHeader.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PrivateInterfaces\CAAAfrHistogramChartWindow.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PrivateInterfaces\CAAAfrMRUHeader.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAAfrCustCommandHdrModel.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAAfrGeoAnalysisWbench.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAAfrGeoCreationWbench.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAAfrGeometryWshop.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAAfrGeoWindows.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAAfrGetMRUManager.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAIAfrGeoAnalysisWkbAddin.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAIAfrGeoCreationWkbAddin.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAIAfrGeometryWksAddin.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAIAfrMRUManagement.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CAAIAfrTemporaryObjectColor.h" />
+    <ClInclude Include="..\..\CAAApplicationFrame.edu\PublicInterfaces\CATICAAAfrGeometryWksConfiguration.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,11 @@
+FrameId.PointTextId.LongHelp = "[十CAADegAnalysisNumericDlg,meId.PointTextId.LongHelp十一構ソチ－The count of point selected]";
+Title = "[十CAADegAnalysisNumericDlg,Title十一構ソチ－Count of selected elements]";
+FrameId.CircleTextId.Title = "[十CAADegAnalysisNumericDlg,rameId.CircleTextId.Title十一構ソチ－Circle]";
+FrameId.PlaneTextId.LongHelp = "[十CAADegAnalysisNumericDlg,meId.PlaneTextId.LongHelp十一構ソチ－The count of plane selected]";
+FrameId.LineTextId.Title = "[十CAADegAnalysisNumericDlg,FrameId.LineTextId.Title十一構ソチ－Line]";
+FrameId.PlaneTextId.Title = "[十CAADegAnalysisNumericDlg,FrameId.PlaneTextId.Title十一構ソチ－Plane]";
+FrameId.LineTextId.LongHelp = "[十CAADegAnalysisNumericDlg,ameId.LineTextId.LongHelp十一構ソチ－The count of line selected]";
+FrameId.PointTextId.Title = "[十CAADegAnalysisNumericDlg,FrameId.PointTextId.Title十一構ソチ－Point]";
+FrameId.EllipseTextId.Title = "[十CAADegAnalysisNumericDlg,ameId.EllipseTextId.Title十一構ソチ－Ellipse]";
+FrameId.EllipseTextId.LongHelp = "[十CAADegAnalysisNumericDlg,Id.EllipseTextId.LongHelp十一構ソチ－The count of ellipse selected]";
+FrameId.CircleTextId.LongHelp = "[十CAADegAnalysisNumericDlg,eId.CircleTextId.LongHelp十一構ソチ－The count of circle selected]";

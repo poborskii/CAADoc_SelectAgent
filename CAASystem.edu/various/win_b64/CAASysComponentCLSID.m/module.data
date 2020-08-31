@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CAASysComponentCLSID.exp|.\CAASystem.edu\CAASysComponentCLSID.m
+RTV/001/CUS .\win_b64\code\bin\CAASysComponentCLSID.dll|.\CAASystem.edu\CAASysComponentCLSID.m
+BTV/000/CUS .\win_b64\code\lib\CAASysComponentCLSID.lib|.\CAASystem.edu\CAASysComponentCLSID.m
+INT/000/CUS .\win_b64\code\bin\CAASysComponentCLSID.pdb|.\CAASystem.edu\CAASysComponentCLSID.m
+CSC/000/DSI .\CAASystem.edu\CAASysComponentCLSID.m\Objects\win_b64\mkcsc\CAASysComponentCLSID.cscdb|.\CAASystem.edu\CAASysComponentCLSID.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

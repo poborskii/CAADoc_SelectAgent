@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CAADegSDOAddin.exp|.\CAADialogEngine.edu\CAADegSDOAddin.m
+CSC/000/DSI .\CAADialogEngine.edu\CAADegSDOAddin.m\Objects\win_b64\mkcsc\CAADegSDOAddin.cscdb|.\CAADialogEngine.edu\CAADegSDOAddin.m
+INT/000/CUS .\win_b64\code\bin\CAADegSDOAddin.pdb|.\CAADialogEngine.edu\CAADegSDOAddin.m
+BTV/000/CUS .\win_b64\code\lib\CAADegSDOAddin.lib|.\CAADialogEngine.edu\CAADegSDOAddin.m
+RTV/001/CUS .\win_b64\code\bin\CAADegSDOAddin.dll|.\CAADialogEngine.edu\CAADegSDOAddin.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

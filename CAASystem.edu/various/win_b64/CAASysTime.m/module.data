@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAASysTime.pdb|.\CAASystem.edu\CAASysTime.m
+CSC/000/DSI .\CAASystem.edu\CAASysTime.m\Objects\win_b64\mkcsc\CAASysTime.cscdb|.\CAASystem.edu\CAASysTime.m
+RTV/001/CUS .\win_b64\code\bin\CAASysTime.exe|.\CAASystem.edu\CAASysTime.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

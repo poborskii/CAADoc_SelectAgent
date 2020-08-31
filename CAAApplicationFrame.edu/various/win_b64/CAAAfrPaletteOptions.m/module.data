@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrPaletteOptions.m\Objects\win_b64\mkcsc\CAAAfrPaletteOptions.cscdb|.\CAAApplicationFrame.edu\CAAAfrPaletteOptions.m
+INT/000/CUS .\win_b64\code\lib\CAAAfrPaletteOptions.exp|.\CAAApplicationFrame.edu\CAAAfrPaletteOptions.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrPaletteOptions.pdb|.\CAAApplicationFrame.edu\CAAAfrPaletteOptions.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrPaletteOptions.lib|.\CAAApplicationFrame.edu\CAAAfrPaletteOptions.m
+RTV/001/CUS .\win_b64\code\bin\CAAAfrPaletteOptions.dll|.\CAAApplicationFrame.edu\CAAAfrPaletteOptions.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

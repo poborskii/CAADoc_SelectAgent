@@ -1,0 +1,8 @@
+XFrame.LongHelp = "[十CAAAfrPointEditDlg,XFrame.LongHelp十一構ソチ－entry x]";
+Title = "[十CAAAfrPointEditDlg,Title十一構ソチ－Point Definition]";
+XFrame.XLabel.Title = "[十CAAAfrPointEditDlg,XFrame.XLabel.Title十一構ソチ－X: ]";
+ZFrame.ZLabel.Title = "[十CAAAfrPointEditDlg,ZFrame.ZLabel.Title十一構ソチ－Z: ]";
+Help = "[十CAAAfrPointEditDlg,Help十一構ソチ－Enter x,y,z to change the point position]";
+YFrame.YLabel.Title = "[十CAAAfrPointEditDlg,YFrame.YLabel.Title十一構ソチ－Y: ]";
+ZFrame.LongHelp = "[十CAAAfrPointEditDlg,ZFrame.LongHelp十一構ソチ－entry z]";
+YFrame.LongHelp = "[十CAAAfrPointEditDlg,YFrame.LongHelp十一構ソチ－entry y]";

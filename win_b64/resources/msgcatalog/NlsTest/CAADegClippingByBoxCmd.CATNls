@@ -1,0 +1,6 @@
+CAADegClippingByBoxCmd.UndoTitle = "[~CAADegClippingByBoxCmd,lippingByBoxCmd.UndoTitle~ Clîpping Bøx]";
+CAADegClippingByBoxCmd.stGetEndStateId.Message = "[~CAADegClippingByBoxCmd,d.stGetEndStateId.Message~ Møvé the moüse to form the boundîng box ånd click to end]";
+CAADegClippingByBoxCmd.stTextStateId.Message = "[~CAADegClippingByBoxCmd,Cmd.stTextStateId.Message~ Sélect the tempøråry text]";
+CAADegClippingByBoxCmd.stBoxCenterStateId.Message = "[~CAADegClippingByBoxCmd,tBoxCenterStateId.Message~ Sélect the center bøx]";
+CAADegClippingByBoxCmd.SelText.UndoTitle = "[~CAADegClippingByBoxCmd,yBoxCmd.SelText.UndoTitle~ Témpøråry text selectîon]";
+CAADegClippingByBoxCmd.SecondTransition.UndoTitle = "[~CAADegClippingByBoxCmd,econdTransition.UndoTitle~ Cénter bøx selectîon]";

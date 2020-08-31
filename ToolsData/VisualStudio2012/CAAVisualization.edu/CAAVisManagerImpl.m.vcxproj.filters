@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{bfef5bd0-d1a9-44e3-99dd-5fcd34d50bbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{ec87fe0f-42e4-44d5-b172-0443ae09ccc7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis2DGraphVisuForObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis3DGeoVisuForCGRObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis3DGeoVisuForCuboid.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis3DGeoVisuForSet.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis3DGeoVisuForSphere.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelCGRObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelCuboid.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelEventsForObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelSetOfObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelSphere.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAVis2DGraphBoxRep.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAVis2DGraphVisuAdapter.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis2DGraphVisuForObject.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis3DGeoVisuForCGRObject.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis3DGeoVisuForCuboid.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis3DGeoVisuForSet.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis3DGeoVisuForSphere.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelCGRObject.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelCuboid.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelEventsForObject.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelObject.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelSetOfObject.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelSphere.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAVis2DGraphBoxRep.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAVis2DGraphVisuAdapter.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

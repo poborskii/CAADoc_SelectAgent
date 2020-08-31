@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{030fc0d2-8b07-4251-ae06-c3bd6ce99076}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\Imakefile.mk" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis2DGraphVisuForObject.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis3DGeoVisuForCGRObject.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis3DGeoVisuForCuboid.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis3DGeoVisuForSet.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVis3DGeoVisuForSphere.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelCGRObject.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelCuboid.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelEventsForObject.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelObject.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelSetOfObject.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAEVisModelSphere.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAVis2DGraphBoxRep.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\LocalInterfaces\CAAVis2DGraphVisuAdapter.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis2DGraphVisuForObject.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis3DGeoVisuForCGRObject.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis3DGeoVisuForCuboid.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis3DGeoVisuForSet.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVis3DGeoVisuForSphere.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelCGRObject.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelCuboid.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelEventsForObject.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelObject.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelSetOfObject.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAEVisModelSphere.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAVis2DGraphBoxRep.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerImpl.m\src\CAAVis2DGraphVisuAdapter.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

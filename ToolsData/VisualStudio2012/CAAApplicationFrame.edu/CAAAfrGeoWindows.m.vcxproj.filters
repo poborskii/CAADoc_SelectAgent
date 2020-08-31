@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{529f4010-c19f-446e-9e66-8d9d9841482d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoWindows.m\src\CAAAfrCustomWindow.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoWindows.m\src\CAAAfrHistogramChartWindow.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoWindows.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

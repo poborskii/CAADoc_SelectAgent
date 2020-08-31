@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAAVisBasics.exe|.\CAAVisualization.edu\CAAVisBasics.m
+INT/000/CUS .\win_b64\code\bin\CAAVisBasics.pdb|.\CAAVisualization.edu\CAAVisBasics.m
+CSC/000/DSI .\CAAVisualization.edu\CAAVisBasics.m\Objects\win_b64\mkcsc\CAAVisBasics.cscdb|.\CAAVisualization.edu\CAAVisBasics.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

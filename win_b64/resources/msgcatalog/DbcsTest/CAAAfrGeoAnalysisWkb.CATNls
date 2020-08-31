@@ -1,0 +1,7 @@
+CAAAfrAnalyzeMnu.Mnemonic = "[十CAAAfrGeoAnalysisWkb,CAAAfrAnalyzeMnu.Mnemonic十一構ソチ－A]";
+CAAAfrGeoAnalysisWkb.Help = "[十CAAAfrGeoAnalysisWkb,CAAAfrGeoAnalysisWkb.Help十一構ソチ－Workbench to analyze geometrical elements]";
+CAAAfrGeoAnalysisWkb.LongHelp = "[十CAAAfrGeoAnalysisWkb,frGeoAnalysisWkb.LongHelp十一構ソチ－This is the Geometrical Elt Analysis Workbench. ]\n[十CAAAfrGeoAnalysisWkb,frGeoAnalysisWkb.LongHelp十一構ソチ－It is used to demonstrate workbenches.]";
+CAAAfrGeoAnalysisWkb.ShortHelp = "[十CAAAfrGeoAnalysisWkb,rGeoAnalysisWkb.ShortHelp十一構ソチ－Workbench to Analyze Geometrical Elements]";
+CAAAfrGeoAnalysisWkb.Title = "[十CAAAfrGeoAnalysisWkb,AAAfrGeoAnalysisWkb.Title十一構ソチ－CAA V5: Geometrical Analysis]";
+CAAAfrAnalyzeTlb.Title = "[十CAAAfrGeoAnalysisWkb,CAAAfrAnalyzeTlb.Title十一構ソチ－Mathematical Analysis]";
+CAAAfrAnalyzeMnu.Title = "[十CAAAfrGeoAnalysisWkb,CAAAfrAnalyzeMnu.Title十一構ソチ－Analyze]";

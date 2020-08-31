@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{2f55b886-e3fb-41f5-842b-94481b51de59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{96eea5af-ea79-4a10-90f2-7a8d816f2ce1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisHistogramChartVisuForRootObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisModelEvents.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisVisuCircle.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisVisuCuboid.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisVisuCylinder.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisVisuLine.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisVisuPlane.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisVisuPoint.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisVisuPolyline.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\src\CAAEVisVisuRootObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisHistogramChartVisuForRootObject.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisModelEvents.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisVisuCircle.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisVisuCuboid.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisVisuCylinder.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisVisuLine.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisVisuPlane.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisVisuPoint.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisVisuPolyline.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\LocalInterfaces\CAAEVisVisuRootObject.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisGeoModel.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

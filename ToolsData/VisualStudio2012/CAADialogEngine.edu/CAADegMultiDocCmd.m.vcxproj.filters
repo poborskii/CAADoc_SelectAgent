@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{a57b3d04-a22d-4dfa-b89f-c50ff6f92bda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{daae5e52-772d-47fa-86c1-9c1fbcc4e790}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAADialogEngine.edu\CAADegMultiDocCmd.m\src\CAADegSampleMultiDocumentCommand.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAADialogEngine.edu\CAADegMultiDocCmd.m\LocalInterfaces\CAADegSampleMultiDocumentCommand.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAADialogEngine.edu\CAADegMultiDocCmd.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

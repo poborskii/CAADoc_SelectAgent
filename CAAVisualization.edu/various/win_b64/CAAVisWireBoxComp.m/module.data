@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CAAVisWireBoxComp.exp|.\CAAVisualization.edu\CAAVisWireBoxComp.m
+CSC/000/DSI .\CAAVisualization.edu\CAAVisWireBoxComp.m\Objects\win_b64\mkcsc\CAAVisWireBoxComp.cscdb|.\CAAVisualization.edu\CAAVisWireBoxComp.m
+INT/000/CUS .\win_b64\code\bin\CAAVisWireBoxComp.pdb|.\CAAVisualization.edu\CAAVisWireBoxComp.m
+RTV/001/CUS .\win_b64\code\bin\CAAVisWireBoxComp.dll|.\CAAVisualization.edu\CAAVisWireBoxComp.m
+BTV/000/CUS .\win_b64\code\lib\CAAVisWireBoxComp.lib|.\CAAVisualization.edu\CAAVisWireBoxComp.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

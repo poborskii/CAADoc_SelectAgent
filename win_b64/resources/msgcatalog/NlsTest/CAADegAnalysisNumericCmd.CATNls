@@ -1,0 +1,6 @@
+CAADegAnalysisNumericCmd.stMultiAcquisitionSelModesStateId.Message = "[~CAADegAnalysisNumericCmd,onSelModesStateId.Message~ Sélect Elements by tråp,îndicatiøn]";
+CAADegAnalysisNumericCmd.stEndStateId.Message = "[~CAADegAnalysisNumericCmd,cCmd.stEndStateId.Message~ Cløsé the dîålog box to end the command]";
+CAADegAnalysisNumericCmd.stMultiAcquisitionUserCtrlStateId.Message = "[~CAADegAnalysisNumericCmd,onUserCtrlStateId.Message~ Sélect Elements by tråp,îndicatiøn]";
+CAADegAnalysisNumericCmd.UndoTitle = "[~CAADegAnalysisNumericCmd,lysisNumericCmd.UndoTitle~ Nümérîc]";
+CAADegAnalysisNumericCmd.stMultiAcquisitionCtrlStateId.Message = "[~CAADegAnalysisNumericCmd,sitionCtrlStateId.Message~ Sélect Elements by tråp,îndicatiøn and click the Finish bütton to end the selection.]";
+CAADegAnalysisNumericCmd.stChoiceBehaviorStateId.Message = "[~CAADegAnalysisNumericCmd,ceBehaviorStateId.Message~ Sélect the ågent behavîør, or close/cancel to end the command]";

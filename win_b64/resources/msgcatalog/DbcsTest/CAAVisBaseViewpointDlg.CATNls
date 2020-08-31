@@ -1,0 +1,13 @@
+GlobalContainer.VectorsFrame.OriginFrame.Title = "[十CAAVisBaseViewpointDlg,rsFrame.OriginFrame.Title十一構ソチ－Origin]";
+Title = "[十CAAVisBaseViewpointDlg,Title十一構ソチ－Viewpoint Parameters]";
+GlobalContainer.VectorsFrame.SightFrame.X.Title = "[十CAAVisBaseViewpointDlg,sFrame.SightFrame.X.Title十一構ソチ－X=]";
+GlobalContainer.ValuesFrame.Cylindrical.Title = "[十CAAVisBaseViewpointDlg,esFrame.Cylindrical.Title十一構ソチ－Cylindrical]";
+GlobalContainer.VectorsFrame.OriginFrame.Z.Title = "[十CAAVisBaseViewpointDlg,Frame.OriginFrame.Z.Title十一構ソチ－Z=]";
+GlobalContainer.VectorsFrame.SightFrame.Y.Title = "[十CAAVisBaseViewpointDlg,sFrame.SightFrame.Y.Title十一構ソチ－Y=]";
+GlobalContainer.ValuesFrame.Conical.Title = "[十CAAVisBaseViewpointDlg,ValuesFrame.Conical.Title十一構ソチ－Conical]";
+GlobalContainer.VectorsFrame.OriginFrame.X.Title = "[十CAAVisBaseViewpointDlg,Frame.OriginFrame.X.Title十一構ソチ－X=]";
+GlobalContainer.ValuesFrame.AngleLabel.Title = "[十CAAVisBaseViewpointDlg,uesFrame.AngleLabel.Title十一構ソチ－Angle:]";
+GlobalContainer.VectorsFrame.SightFrame.Title = "[十CAAVisBaseViewpointDlg,orsFrame.SightFrame.Title十一構ソチ－Sight direction]";
+GlobalContainer.ValuesFrame.FocusLabel.Title = "[十CAAVisBaseViewpointDlg,uesFrame.FocusLabel.Title十一構ソチ－Focus distance:]";
+GlobalContainer.VectorsFrame.OriginFrame.Y.Title = "[十CAAVisBaseViewpointDlg,Frame.OriginFrame.Y.Title十一構ソチ－Y=]";
+GlobalContainer.VectorsFrame.SightFrame.Z.Title = "[十CAAVisBaseViewpointDlg,sFrame.SightFrame.Z.Title十一構ソチ－Z=]";

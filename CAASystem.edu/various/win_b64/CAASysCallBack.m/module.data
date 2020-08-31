@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAASysCallBack.pdb|.\CAASystem.edu\CAASysCallBack.m
+CSC/000/DSI .\CAASystem.edu\CAASysCallBack.m\Objects\win_b64\mkcsc\CAASysCallBack.cscdb|.\CAASystem.edu\CAASysCallBack.m
+RTV/001/CUS .\win_b64\code\bin\CAASysCallBack.exe|.\CAASystem.edu\CAASysCallBack.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

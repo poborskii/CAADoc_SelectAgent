@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAAAfrCustCommandHdrModel.dll|.\CAAApplicationFrame.edu\CAAAfrCustCommandHdrModel.m
+INT/000/CUS .\win_b64\code\lib\CAAAfrCustCommandHdrModel.exp|.\CAAApplicationFrame.edu\CAAAfrCustCommandHdrModel.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrCustCommandHdrModel.pdb|.\CAAApplicationFrame.edu\CAAAfrCustCommandHdrModel.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrCustCommandHdrModel.m\Objects\win_b64\mkcsc\CAAAfrCustCommandHdrModel.cscdb|.\CAAApplicationFrame.edu\CAAAfrCustCommandHdrModel.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrCustCommandHdrModel.lib|.\CAAApplicationFrame.edu\CAAAfrCustCommandHdrModel.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

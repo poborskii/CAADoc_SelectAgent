@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{ebd0bf2d-9cb4-4e35-965d-45dcec26a4b1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisGeoModelInt.m\src\CAAIVisHistogramChartVisu.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisGeoModelInt.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisGeoModelInt.m\src\TIE_CAAIVisHistogramChartVisu.tsrc">
+      <Filter>src</Filter>
+    </None>
+  </ItemGroup>
+</Project>

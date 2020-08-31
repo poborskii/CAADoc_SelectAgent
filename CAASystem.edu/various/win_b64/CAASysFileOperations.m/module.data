@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\CAASystem.edu\CAASysFileOperations.m\Objects\win_b64\mkcsc\CAASysFileOperations.cscdb|.\CAASystem.edu\CAASysFileOperations.m
+INT/000/CUS .\win_b64\code\bin\CAASysFileOperations.pdb|.\CAASystem.edu\CAASysFileOperations.m
+RTV/001/CUS .\win_b64\code\bin\CAASysFileOperations.exe|.\CAASystem.edu\CAASysFileOperations.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

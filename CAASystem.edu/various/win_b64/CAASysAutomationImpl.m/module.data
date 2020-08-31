@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CAASysAutomationImpl.exp|.\CAASystem.edu\CAASysAutomationImpl.m
+RTV/001/CUS .\win_b64\code\bin\CAASysAutomationImpl.dll|.\CAASystem.edu\CAASysAutomationImpl.m
+INT/000/CUS .\win_b64\code\bin\CAASysAutomationImpl.pdb|.\CAASystem.edu\CAASysAutomationImpl.m
+CSC/000/DSI .\CAASystem.edu\CAASysAutomationImpl.m\Objects\win_b64\mkcsc\CAASysAutomationImpl.cscdb|.\CAASystem.edu\CAASysAutomationImpl.m
+BTV/000/CUS .\win_b64\code\lib\CAASysAutomationImpl.lib|.\CAASystem.edu\CAASysAutomationImpl.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

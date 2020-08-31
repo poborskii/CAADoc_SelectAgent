@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{68a2eba2-a9e7-450a-a9a0-787aa33f2c7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{9f8e116f-805d-47f5-a974-eee98cb69cc4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\src\CAAEAfrAliasDocument.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\src\CAAEAfrDocumentChartWindow.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\src\CAAEAfrEditorDocument.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\src\CAAEAfrInitDocument.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\src\CAAEAfrUIActivateRootObj.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\LocalInterfaces\CAAEAfrAliasDocument.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\LocalInterfaces\CAAEAfrDocumentChartWindow.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\LocalInterfaces\CAAEAfrEditorDocument.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\LocalInterfaces\CAAEAfrInitDocument.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\LocalInterfaces\CAAEAfrUIActivateRootObj.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoDocument.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

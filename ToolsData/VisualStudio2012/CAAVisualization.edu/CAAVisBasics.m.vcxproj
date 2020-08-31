@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{e4bacaef-d512-4292-afb3-f7915c32fee7}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\Imakefile.mk" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseApplication.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseApplicationFrame.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseBERender.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseCGRDocument.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseCreateObjectNotification.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseDefaultDocument.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseDocument.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseExitNotification.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseInsertNotification.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseManipulatorNotification.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseModifyViewpointNotification.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseNewViewpointNotification.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseOpenNotification.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseReframeNotification.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseRenderBENotification.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseView.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseViewpointDlg.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\LocalInterfaces\CAAVisBaseVisuObjectDocument.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseApplication.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseApplicationFrame.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseBERender.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseCGRDocument.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseCreateObjectNotification.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseDefaultDocument.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseDocument.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseExitNotification.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseInsertNotification.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseManipulatorNotification.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseModifyViewpointNotification.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseNewViewpointNotification.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseOpenNotification.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseReframeNotification.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseRenderBENotification.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseView.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseViewpointDlg.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisBasics.m\src\CAAVisBaseVisuObjectDocument.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

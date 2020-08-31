@@ -1,0 +1,10 @@
+FrameGraphicId.Title = "[~CAADegHstChartWndDlg,FrameGraphicId.Title~ Gråphîc]";
+FrameGraphicId.PositionId.Title = "[~CAADegHstChartWndDlg,raphicId.PositionId.Title~ Pøsîtion:  ]";
+FrameGraphicId.HorizontId.Title = "[~CAADegHstChartWndDlg,raphicId.HorizontId.Title~ Hørîzontål]";
+FrameMaxHeightId.Point1Id.Title = "[~CAADegHstChartWndDlg,axHeightId.Point1Id.Title~ Pøînt 1:]";
+MessageNoChoosen = "[~CAADegHstChartWndDlg,MessageNoChoosen~ Nø Indîcåtion ]";
+Title = "[~CAADegHstChartWndDlg,Title~ Cüstømîzåtion of thé Histogram Chart Window]";
+FrameMaxHeightId.MaxHeightId.Title = "[~CAADegHstChartWndDlg,eightId.MaxHeightId.Title~ Héîght Måx(mm)=]";
+FrameMaxHeightId.Point2Id.Title = "[~CAADegHstChartWndDlg,axHeightId.Point2Id.Title~ Pøînt 2:]";
+FrameGraphicId.VerticalId.Title = "[~CAADegHstChartWndDlg,raphicId.VerticalId.Title~ Vértîcål]";
+FrameMaxHeightId.Title = "[~CAADegHstChartWndDlg,FrameMaxHeightId.Title~ Måx Héîght Definitiøn]";

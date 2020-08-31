@@ -1,0 +1,4 @@
+CAADegCreatePlaneCmd.UndoTitle = "[十CAADegCreatePlaneCmd,gCreatePlaneCmd.UndoTitle十一構ソチ－Plane]";
+CAADegCreatePlaneCmd.stSecondPointId.Message = "[十CAADegCreatePlaneCmd,d.stSecondPointId.Message十一構ソチ－Select the second point]";
+CAADegCreatePlaneCmd.stFirstPointId.Message = "[十CAADegCreatePlaneCmd,md.stFirstPointId.Message十一構ソチ－Select the first point]";
+CAADegCreatePlaneCmd.stThirdPointId.Message = "[十CAADegCreatePlaneCmd,md.stThirdPointId.Message十一構ソチ－Select the third point]";

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{916059d6-14a3-4319-b50a-04c2f0ed00f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{91b9515b-39bb-4ba0-ac46-83f10d649172}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\src\CAAEAfrDocAlias.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\src\CAAEAfrDocumentEdit.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\src\CAAEAfrEditor.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\src\CAAEAfrInit.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\src\CAAEAfrUIActivateRootObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\LocalInterfaces\CAAEAfrDocAlias.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\LocalInterfaces\CAAEAfrDocumentEdit.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\LocalInterfaces\CAAEAfrEditor.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\LocalInterfaces\CAAEAfrInit.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\LocalInterfaces\CAAEAfrUIActivateRootObject.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrSampleDocument.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+PBarFrameId.PBarHeaderFrameId.PBarLabelId.Title = "[~CAAAfrBoundingElementCmd,FrameId.PBarLabelId.Title~ Cømpüté Progress]";
+Title = "[~CAAAfrBoundingElementCmd,Title~ Mødél Boündîng Sphere]";
+PointLineGlobalFrameId.PointLineCheckFrameId.LineId.Title = "[~CAAAfrBoundingElementCmd,CheckFrameId.LineId.Title~ Tåkîng intø accoünt Linés]";
+PointLineGlobalFrameId.PointLineCheckFrameId.PointSpaceLabelId.Title = "[~CAAAfrBoundingElementCmd,d.PointSpaceLabelId.Title~    ]";
+PointLineGlobalFrameId.PointLineCheckFrameId.PointId.Title = "[~CAAAfrBoundingElementCmd,heckFrameId.PointId.Title~ Tåkîng intø accoünt Points]";
+PointLineGlobalFrameId.PointLineCheckFrameId.ComputeButtonId.Title = "[~CAAAfrBoundingElementCmd,eId.ComputeButtonId.Title~ Cømpüté]";
+PointLineGlobalFrameId.PointLineCheckFrameId.LineSpaceLabelId.Title = "[~CAAAfrBoundingElementCmd,Id.LineSpaceLabelId.Title~    ]";
+Help = "[~CAAAfrBoundingElementCmd,Help~  Thîs Diåløg box shows a progréss bar when yoü click apply.]";
+PointLineGlobalFrameId.PointLineHeaderFrameId.LabelPointLineId.Title = "[~CAAAfrBoundingElementCmd,Id.LabelPointLineId.Title~ Cømpüté Pårameters]";

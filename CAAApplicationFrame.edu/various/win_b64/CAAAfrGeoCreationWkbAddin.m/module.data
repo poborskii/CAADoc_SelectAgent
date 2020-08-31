@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAAAfrGeoCreationWkbAddin.dll|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWkbAddin.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrGeoCreationWkbAddin.lib|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWkbAddin.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrGeoCreationWkbAddin.m\Objects\win_b64\mkcsc\CAAAfrGeoCreationWkbAddin.cscdb|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWkbAddin.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrGeoCreationWkbAddin.pdb|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWkbAddin.m
+INT/000/CUS .\win_b64\code\lib\CAAAfrGeoCreationWkbAddin.exp|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWkbAddin.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{1683db87-cb0f-4a5b-b3cb-28857ecc9a5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{b1c152dd-87dd-42cf-90fb-51fd335c7fdc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrProductLine.m\src\CAAAfrProductLine.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrProductLine.m\LocalInterfaces\resource.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrProductLine.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrProductLine.m\src\icon1.ico">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrProductLine.m\src\Script4.rc">
+      <Filter>src</Filter>
+    </None>
+  </ItemGroup>
+</Project>

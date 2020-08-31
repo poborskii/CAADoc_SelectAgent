@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CAAVisModelForRep.exp|.\CAAVisualization.edu\CAAVisModelForRep.m
+INT/000/CUS .\win_b64\code\bin\CAAVisModelForRep.pdb|.\CAAVisualization.edu\CAAVisModelForRep.m
+BTV/000/CUS .\win_b64\code\lib\CAAVisModelForRep.lib|.\CAAVisualization.edu\CAAVisModelForRep.m
+CSC/000/DSI .\CAAVisualization.edu\CAAVisModelForRep.m\Objects\win_b64\mkcsc\CAAVisModelForRep.cscdb|.\CAAVisualization.edu\CAAVisModelForRep.m
+RTV/001/CUS .\win_b64\code\bin\CAAVisModelForRep.dll|.\CAAVisualization.edu\CAAVisModelForRep.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{470f67d5-8324-4683-a021-2a3ed35f9969}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\Imakefile.mk" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerApplication.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerApplicationFrame.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerCGRDocument.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerCmdSelector.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerCxtMenu.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerDefaultDocument.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerDocument.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerEditor.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerWindow.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerWindowActivateNotif.h" />
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\LocalInterfaces\CAAVisManagerWindowDeleteNotif.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerApplication.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerApplicationFrame.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerCGRDocument.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerCmdSelector.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerCxtMenu.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerDefaultDocument.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerDocument.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerEditor.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerWindow.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerWindowActivateNotif.cpp" />
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerAppli.m\src\CAAVisManagerWindowDeleteNotif.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

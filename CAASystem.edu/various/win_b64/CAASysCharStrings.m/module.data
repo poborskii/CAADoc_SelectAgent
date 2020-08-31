@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\CAASystem.edu\CAASysCharStrings.m\Objects\win_b64\mkcsc\CAASysCharStrings.cscdb|.\CAASystem.edu\CAASysCharStrings.m
+RTV/001/CUS .\win_b64\code\bin\CAASysCharStrings.exe|.\CAASystem.edu\CAASysCharStrings.m
+INT/000/CUS .\win_b64\code\bin\CAASysCharStrings.pdb|.\CAASystem.edu\CAASysCharStrings.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

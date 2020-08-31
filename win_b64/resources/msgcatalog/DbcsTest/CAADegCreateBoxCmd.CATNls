@@ -1,0 +1,11 @@
+CAADegCreateBoxCmd.CAADegOriginBoxHdr.ShortHelp = "[十CAADegCreateBoxCmd,DegOriginBoxHdr.ShortHelp十一構ソチ－Choice of the Box Origin]";
+CAADegCreateBoxCmd.stCornerPointId.Message = "[十CAADegCreateBoxCmd,d.stCornerPointId.Message十一構ソチ－Select a point to define the corner or change the way to create the cuboid]";
+CAADegCreateBoxCmd.UndoTitle = "[十CAADegCreateBoxCmd,DegCreateBoxCmd.UndoTitle十一構ソチ－Box Creation]";
+CAADegCreateBoxCmd.stHeightPointId.Message = "[十CAADegCreateBoxCmd,d.stHeightPointId.Message十一構ソチ－Indicate a point to define the Height]";
+CAADegCreateBoxCmd.CAADegOriginBoxHdr.LongHelp = "[十CAADegCreateBoxCmd,ADegOriginBoxHdr.LongHelp十一構ソチ－Choice of the Box Origin]\n[十CAADegCreateBoxCmd,ADegOriginBoxHdr.LongHelp十十十十十十十十十十十十十十十一構ソチ－The box is initialy created at the first point selected, however if the button is checked the box is created at the]\n[十CAADegCreateBoxCmd,ADegOriginBoxHdr.LongHelp十一構ソチ－origin of the model (0,0,0)]";
+CAADegCreateBoxCmd.stWidthPointId.Message = "[十CAADegCreateBoxCmd,md.stWidthPointId.Message十一構ソチ－Select a point to define the width or change the way to create the cuboid]";
+CAADegCreateBoxCmd.daCornerPointId.UndoTitle = "[十CAADegCreateBoxCmd,daCornerPointId.UndoTitle十一構ソチ－Origin selection]";
+CAADegCreateBoxCmd.stDepthPointId.Message = "[十CAADegCreateBoxCmd,md.stDepthPointId.Message十一構ソチ－Indicate a point to define the Depth or change the way to create the cuboid]";
+CAADegCreateBoxCmd.daDepthPointId.UndoTitle = "[十CAADegCreateBoxCmd,.daDepthPointId.UndoTitle十一構ソチ－depth point selection]";
+CAADegCreateBoxCmd.daWidthPointId.UndoTitle = "[十CAADegCreateBoxCmd,.daWidthPointId.UndoTitle十一構ソチ－width point selection]";
+CAADegCreateBoxCmd.CAADegOriginBoxHdr.Help = "[十CAADegCreateBoxCmd,d.CAADegOriginBoxHdr.Help十一構ソチ－Choice of the Box Origin]";

@@ -1,0 +1,3 @@
+CAADegCreateEllipseCmd.stGetPlaneId.Message = "[十CAADegCreateEllipseCmd,eCmd.stGetPlaneId.Message十一構ソチ－Select the projection plane]";
+CAADegCreateEllipseCmd.UndoTitle = "[十CAADegCreateEllipseCmd,reateEllipseCmd.UndoTitle十一構ソチ－Ellipse]";
+CAADegCreateEllipseCmd.stGetEllipseId.Message = "[十CAADegCreateEllipseCmd,md.stGetEllipseId.Message十一構ソチ－Click the mouse to get Center ellipse]";

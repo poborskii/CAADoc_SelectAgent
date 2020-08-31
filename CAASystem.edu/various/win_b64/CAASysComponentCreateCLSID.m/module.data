@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAASysComponentCreateCLSID.exe|.\CAASystem.edu\CAASysComponentCreateCLSID.m
+CSC/000/DSI .\CAASystem.edu\CAASysComponentCreateCLSID.m\Objects\win_b64\mkcsc\CAASysComponentCreateCLSID.cscdb|.\CAASystem.edu\CAASysComponentCreateCLSID.m
+INT/000/CUS .\win_b64\code\bin\CAASysComponentCreateCLSID.pdb|.\CAASystem.edu\CAASysComponentCreateCLSID.m
+@deliverable='true'
+@kind='NATIVE'
+@type='LOAD_MODULE'
+@built='true'
+@clr='false'

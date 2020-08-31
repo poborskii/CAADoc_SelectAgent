@@ -1,0 +1,9 @@
+PBarFrameId.PBarHeaderFrameId.PBarLabelId.Title = "[十CAAAfrBoundingElementCmd,FrameId.PBarLabelId.Title十一構ソチ－Compute Progress]";
+Title = "[十CAAAfrBoundingElementCmd,Title十一構ソチ－Model Bounding Sphere]";
+PointLineGlobalFrameId.PointLineCheckFrameId.LineId.Title = "[十CAAAfrBoundingElementCmd,CheckFrameId.LineId.Title十一構ソチ－Taking into account Lines]";
+PointLineGlobalFrameId.PointLineCheckFrameId.PointSpaceLabelId.Title = "[十CAAAfrBoundingElementCmd,d.PointSpaceLabelId.Title十一構ソチ－   ]";
+PointLineGlobalFrameId.PointLineCheckFrameId.PointId.Title = "[十CAAAfrBoundingElementCmd,heckFrameId.PointId.Title十一構ソチ－Taking into account Points]";
+PointLineGlobalFrameId.PointLineCheckFrameId.ComputeButtonId.Title = "[十CAAAfrBoundingElementCmd,eId.ComputeButtonId.Title十一構ソチ－Compute]";
+PointLineGlobalFrameId.PointLineCheckFrameId.LineSpaceLabelId.Title = "[十CAAAfrBoundingElementCmd,Id.LineSpaceLabelId.Title十一構ソチ－   ]";
+Help = "[十CAAAfrBoundingElementCmd,Help十十一構ソチ－ This Dialog box shows a progress bar when you click apply.]";
+PointLineGlobalFrameId.PointLineHeaderFrameId.LabelPointLineId.Title = "[十CAAAfrBoundingElementCmd,Id.LabelPointLineId.Title十一構ソチ－Compute Parameters]";

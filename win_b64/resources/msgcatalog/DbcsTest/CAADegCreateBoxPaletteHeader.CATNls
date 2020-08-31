@@ -1,0 +1,9 @@
+CAADegCreateBoxPaletteHeader.CAADegTwoPointsBoxHdr.ShortHelp = "[十CAADegCreateBoxPaletteHeader,TwoPointsBoxHdr.ShortHelp十一構ソチ－Create a cuboid with 2 points]";
+CAADegCreateBoxPaletteHeader.CAADegFourPointsBoxHdr.ShortHelp = "[十CAADegCreateBoxPaletteHeader,ourPointsBoxHdr.ShortHelp十一構ソチ－Create a cuboid a cuboid with 4 points]";
+CAADegCreateBoxPaletteHeader.CAADegTwoPointsBoxHdr.Help = "[十CAADegCreateBoxPaletteHeader,AADegTwoPointsBoxHdr.Help十一構ソチ－Create a cuboid where Width=Height=Depth]";
+CAADegCreateBoxPaletteHeader.CAADegTwoPointsBoxHdr.LongHelp = "[十CAADegCreateBoxPaletteHeader,gTwoPointsBoxHdr.LongHelp十一構ソチ－Create a cuboid]\n[十CAADegCreateBoxPaletteHeader,gTwoPointsBoxHdr.LongHelp十一構ソチ－All dimensions of the cuboid are equal. It's a cube.]";
+CAADegCreateBoxPaletteHeader.CAADegThreePointsBoxHdr.Help = "[十CAADegCreateBoxPaletteHeader,DegThreePointsBoxHdr.Help十一構ソチ－Create a cuboid where Height=Depth]";
+CAADegCreateBoxPaletteHeader.CAADegFourPointsBoxHdr.LongHelp = "[十CAADegCreateBoxPaletteHeader,FourPointsBoxHdr.LongHelp十一構ソチ－Create a cuboid]\n[十CAADegCreateBoxPaletteHeader,FourPointsBoxHdr.LongHelp十一構ソチ－You define all the dimensions: The Width, the Depth and the Height.]";
+CAADegCreateBoxPaletteHeader.CAADegFourPointsBoxHdr.Help = "[十CAADegCreateBoxPaletteHeader,ADegFourPointsBoxHdr.Help十一構ソチ－Create a cuboid in defining the 3 dimensions]";
+CAADegCreateBoxPaletteHeader.CAADegThreePointsBoxHdr.ShortHelp = "[十CAADegCreateBoxPaletteHeader,reePointsBoxHdr.ShortHelp十一構ソチ－Create a cuboid with 3 points]";
+CAADegCreateBoxPaletteHeader.CAADegThreePointsBoxHdr.LongHelp = "[十CAADegCreateBoxPaletteHeader,hreePointsBoxHdr.LongHelp十一構ソチ－Create a cuboid ]\n[十CAADegCreateBoxPaletteHeader,hreePointsBoxHdr.LongHelp十一構ソチ－You define the Widht, the Depth. The Last dimension, the Height is equal to the Depth]";

@@ -1,0 +1,6 @@
+CAADegCreateTriangleCmd.UndoTitle = "[~CAADegCreateTriangleCmd,eateTriangleCmd.UndoTitle~ Trîånglé Creatiøn]";
+CAADegCreateTriangleCmd.SelStartPoint.UndoTitle = "[~CAADegCreateTriangleCmd,d.SelStartPoint.UndoTitle~ Fîrst pøint sélection]";
+CAADegCreateTriangleCmd.stFirstPointId.Message = "[~CAADegCreateTriangleCmd,md.stFirstPointId.Message~ Sélect the fîrst pøint]";
+CAADegCreateTriangleCmd.stSecondPointId.Message = "[~CAADegCreateTriangleCmd,d.stSecondPointId.Message~ Sélect the secønd poînt]";
+CAADegCreateTriangleCmd.stThirdPointId.Message = "[~CAADegCreateTriangleCmd,md.stThirdPointId.Message~ Sélect the thîrd pøint]";
+CAADegCreateTriangleCmd.SecondTransition.UndoTitle = "[~CAADegCreateTriangleCmd,econdTransition.UndoTitle~ Fîrst liné creåtiøn]";

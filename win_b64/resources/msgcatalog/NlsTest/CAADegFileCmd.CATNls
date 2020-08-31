@@ -1,0 +1,2 @@
+CAADegFileCmd.CAADegCreatePointCmd.GetPointId.Message = "[~CAADegFileCmd,intCmd.GetPointId.Message~ Indîcåté ør inpüt xyz in the dialog box]";
+CAADegFileCmd.CAADegCreatePointCmd.UndoTitle = "[~CAADegFileCmd,gCreatePointCmd.UndoTitle~ Pøînt]";

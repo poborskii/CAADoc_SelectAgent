@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+BTV/000/CUS .\win_b64\code\lib\CAAAfrGeoAnalysisWbench.lib|.\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrGeoAnalysisWbench.pdb|.\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m
+INT/000/CUS .\win_b64\code\lib\CAAAfrGeoAnalysisWbench.exp|.\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\Objects\win_b64\mkcsc\CAAAfrGeoAnalysisWbench.cscdb|.\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m
+RTV/001/CUS .\win_b64\code\bin\CAAAfrGeoAnalysisWbench.dll|.\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

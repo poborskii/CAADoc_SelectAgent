@@ -1,0 +1,14 @@
+InterruptId.LongHelp = "[十CAAAfrProgressTaskSampleCmd,InterruptId.LongHelp十一構ソチ－Check if the task is interruptible or not]";
+ComputeButtonId.ShortHelp = "[十CAAAfrProgressTaskSampleCmd,ComputeButtonId.ShortHelp十一構ソチ－Launch the task]";
+Title = "[十CAAAfrProgressTaskSampleCmd,Title十一構ソチ－Interruptible Task]";
+InterruptId.Help = "[十CAAAfrProgressTaskSampleCmd,InterruptId.Help十一構ソチ－Check if the task is interruptible or not]";
+InterruptId.Title = "[十CAAAfrProgressTaskSampleCmd,InterruptId.Title十一構ソチ－Interruptible Task]";
+ProgressTaskUI.ObjectName = "[十CAAAfrProgressTaskSampleCmd,ProgressTaskUI.ObjectName十一構ソチ－Model]";
+Help = "[十CAAAfrProgressTaskSampleCmd,Help十一構ソチ－Dialog box which creates an interruptible task ]";
+ComputeButtonId.LongHelp = "[十CAAAfrProgressTaskSampleCmd,ComputeButtonId.LongHelp十一構ソチ－Launch the task. It is interruptible if the previous]\n[十CAAAfrProgressTaskSampleCmd,ComputeButtonId.LongHelp十一構ソチ－button is checked]";
+ProgressTaskUI.Title = "[十CAAAfrProgressTaskSampleCmd,ProgressTaskUI.Title十一構ソチ－Computing...]";
+ProgressTaskUI.CommentRuntime = "[十CAAAfrProgressTaskSampleCmd,ressTaskUI.CommentRuntime十一構ソチ－Step /P1 ...]";
+ComputeButtonId.Title = "[十CAAAfrProgressTaskSampleCmd,ComputeButtonId.Title十一構ソチ－Compute]";
+InterruptId.ShortHelp = "[十CAAAfrProgressTaskSampleCmd,InterruptId.ShortHelp十一構ソチ－Check if the task is interruptible or not]";
+ComputeButtonId.Help = "[十CAAAfrProgressTaskSampleCmd,ComputeButtonId.Help十一構ソチ－Launch the task]";
+ProgressTaskUI.Comment = "[十CAAAfrProgressTaskSampleCmd,ProgressTaskUI.Comment十一構ソチ－Step ...]";

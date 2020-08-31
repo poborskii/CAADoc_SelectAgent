@@ -1,0 +1,6 @@
+XYZFrame.LongHelp = "[十CAAAfrPlaneEditCmd,XYZFrame.LongHelp十一構ソチ－This Dialog Box allows you to change the origin of the plane]";
+Title = "[十CAAAfrPlaneEditCmd,Title十一構ソチ－Plane Origin Definition]";
+Help = "[十CAAAfrPlaneEditCmd,Help十十十十十十十十十一構ソチ－This Dialog Box allows you to change the origin of the plane]";
+XYZFrame.YFrame.YLabel.Title = "[十CAAAfrPlaneEditCmd,Frame.YFrame.YLabel.Title十一構ソチ－Y: ]";
+XYZFrame.ZFrame.ZLabel.Title = "[十CAAAfrPlaneEditCmd,Frame.ZFrame.ZLabel.Title十一構ソチ－Z: ]";
+XYZFrame.XFrame.XLabel.Title = "[十CAAAfrPlaneEditCmd,Frame.XFrame.XLabel.Title十一構ソチ－X: ]";

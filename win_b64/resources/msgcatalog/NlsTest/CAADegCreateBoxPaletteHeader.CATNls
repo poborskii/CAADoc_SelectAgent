@@ -1,0 +1,9 @@
+CAADegCreateBoxPaletteHeader.CAADegTwoPointsBoxHdr.ShortHelp = "[~CAADegCreateBoxPaletteHeader,TwoPointsBoxHdr.ShortHelp~ Créåte a cübøîd with 2 points]";
+CAADegCreateBoxPaletteHeader.CAADegFourPointsBoxHdr.ShortHelp = "[~CAADegCreateBoxPaletteHeader,ourPointsBoxHdr.ShortHelp~ Créåte a cübøîd a cuboid with 4 points]";
+CAADegCreateBoxPaletteHeader.CAADegTwoPointsBoxHdr.Help = "[~CAADegCreateBoxPaletteHeader,AADegTwoPointsBoxHdr.Help~ Créåte a cübøîd where Width=Height=Depth]";
+CAADegCreateBoxPaletteHeader.CAADegTwoPointsBoxHdr.LongHelp = "[~CAADegCreateBoxPaletteHeader,gTwoPointsBoxHdr.LongHelp~ Créåte a cübøîd]\n[~CAADegCreateBoxPaletteHeader,gTwoPointsBoxHdr.LongHelp~ All dîménsiøns of the cüboid åre equal. It's a cube.]";
+CAADegCreateBoxPaletteHeader.CAADegThreePointsBoxHdr.Help = "[~CAADegCreateBoxPaletteHeader,DegThreePointsBoxHdr.Help~ Créåte a cübøîd where Height=Depth]";
+CAADegCreateBoxPaletteHeader.CAADegFourPointsBoxHdr.LongHelp = "[~CAADegCreateBoxPaletteHeader,FourPointsBoxHdr.LongHelp~ Créåte a cübøîd]\n[~CAADegCreateBoxPaletteHeader,FourPointsBoxHdr.LongHelp~ Yøü défîne åll the dimensions: The Width, the Depth and the Height.]";
+CAADegCreateBoxPaletteHeader.CAADegFourPointsBoxHdr.Help = "[~CAADegCreateBoxPaletteHeader,ADegFourPointsBoxHdr.Help~ Créåte a cübøîd in defining the 3 dimensions]";
+CAADegCreateBoxPaletteHeader.CAADegThreePointsBoxHdr.ShortHelp = "[~CAADegCreateBoxPaletteHeader,reePointsBoxHdr.ShortHelp~ Créåte a cübøîd with 3 points]";
+CAADegCreateBoxPaletteHeader.CAADegThreePointsBoxHdr.LongHelp = "[~CAADegCreateBoxPaletteHeader,hreePointsBoxHdr.LongHelp~ Créåte a cübøîd ]\n[~CAADegCreateBoxPaletteHeader,hreePointsBoxHdr.LongHelp~ Yøü défîne the Widht, the Depth. The Låst dimension, the Height is equal to the Depth]";

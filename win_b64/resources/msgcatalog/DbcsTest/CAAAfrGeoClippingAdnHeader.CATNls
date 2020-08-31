@@ -1,0 +1,15 @@
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.LongHelp = "[十CAAAfrGeoClippingAdnHeader,ClippingByBoxHdr.LongHelp十一構ソチ－Clipping by Box]\n[十CAAAfrGeoClippingAdnHeader,ClippingByBoxHdr.LongHelp十一構ソチ－Select a point, and move the mouse to define the bounding box dimension. All elements outside ]\n[十CAAAfrGeoClippingAdnHeader,ClippingByBoxHdr.LongHelp十一構ソチ－the bounding box will be deleted.]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.Help = "[十CAAAfrGeoClippingAdnHeader,frClippingByPlaneHdr.Help十一構ソチ－Clipping by Plane command is not yet implemented]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.Title = "[十CAAAfrGeoClippingAdnHeader,ClippingBySphereHdr.Title十一構ソチ－Clipping by Sphere]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.Category = "[十CAAAfrGeoClippingAdnHeader,ClippingByBoxHdr.Category十一構ソチ－View]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.Category = "[十CAAAfrGeoClippingAdnHeader,ippingByPlaneHdr.Category十一構ソチ－View]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.Category = "[十CAAAfrGeoClippingAdnHeader,ppingBySphereHdr.Category十一構ソチ－View]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.Title = "[十CAAAfrGeoClippingAdnHeader,rClippingByPlaneHdr.Title十一構ソチ－Clipping by Plane]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.LongHelp = "[十CAAAfrGeoClippingAdnHeader,ippingByPlaneHdr.LongHelp十一構ソチ－Clipping by Plane]\n[十CAAAfrGeoClippingAdnHeader,ippingByPlaneHdr.LongHelp十一構ソチ－ClippingByPlane Command clips by a plane, but is not yet implemented.]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.LongHelp = "[十CAAAfrGeoClippingAdnHeader,ppingBySphereHdr.LongHelp十一構ソチ－Clipping by Sphere]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByPlaneHdr.ShortHelp = "[十CAAAfrGeoClippingAdnHeader,ppingByPlaneHdr.ShortHelp十一構ソチ－Clipping by Plane]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.ShortHelp = "[十CAAAfrGeoClippingAdnHeader,lippingByBoxHdr.ShortHelp十一構ソチ－Clipping by Box]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.Help = "[十CAAAfrGeoClippingAdnHeader,AAfrClippingByBoxHdr.Help十一構ソチ－Clipping by Box]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.ShortHelp = "[十CAAAfrGeoClippingAdnHeader,pingBySphereHdr.ShortHelp十一構ソチ－Clipping by Sphere]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingBySphereHdr.Help = "[十CAAAfrGeoClippingAdnHeader,rClippingBySphereHdr.Help十一構ソチ－Clipping by Sphere]";
+CAAAfrGeoClippingAdnHeader.CAAAfrClippingByBoxHdr.Title = "[十CAAAfrGeoClippingAdnHeader,AfrClippingByBoxHdr.Title十一構ソチ－Clipping by Box]";

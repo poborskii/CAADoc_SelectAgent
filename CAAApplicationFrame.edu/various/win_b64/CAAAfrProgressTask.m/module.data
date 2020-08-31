@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrProgressTask.m\Objects\win_b64\mkcsc\CAAAfrProgressTask.cscdb|.\CAAApplicationFrame.edu\CAAAfrProgressTask.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrProgressTask.lib|.\CAAApplicationFrame.edu\CAAAfrProgressTask.m
+RTV/001/CUS .\win_b64\code\bin\CAAAfrProgressTask.dll|.\CAAApplicationFrame.edu\CAAAfrProgressTask.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrProgressTask.pdb|.\CAAApplicationFrame.edu\CAAAfrProgressTask.m
+INT/000/CUS .\win_b64\code\lib\CAAAfrProgressTask.exp|.\CAAApplicationFrame.edu\CAAAfrProgressTask.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

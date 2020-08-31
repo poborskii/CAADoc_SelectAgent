@@ -1,0 +1,15 @@
+CAAAfrFormatMnu.Mnemonic = "[十CAAAfrGeometryWks,CAAAfrFormatMnu.Mnemonic十一構ソチ－t]";
+CAAAfrSelectTlb.Title = "[十CAAAfrGeometryWks,CAAAfrSelectTlb.Title十一構ソチ－Select]";
+CAAAfrMLinesSnu.Title = "[十CAAAfrGeometryWks,CAAAfrMLinesSnu.Title十一構ソチ－Multi Lines]";
+CAAAfrNormalViewSnu.Mnemonic = "[十CAAAfrGeometryWks,AfrNormalViewSnu.Mnemonic十一構ソチ－N]";
+CAAAfrMLinesSnu.Mnemonic = "[十CAAAfrGeometryWks,CAAAfrMLinesSnu.Mnemonic十一構ソチ－L]";
+CAAAfrGeometryWks.LongHelp = "[十CAAAfrGeometryWks,AAAfrGeometryWks.LongHelp十一構ソチ－This is the Geometry Workshop. ]\n[十CAAAfrGeometryWks,AAAfrGeometryWks.LongHelp十一構ソチ－It is used to demonstrate workshops.]";
+CAAAfrExploreMnu.Mnemonic = "[十CAAAfrGeometryWks,CAAAfrExploreMnu.Mnemonic十一構ソチ－x]";
+CAAAfrFormatMnu.Title = "[十CAAAfrGeometryWks,CAAAfrFormatMnu.Title十一構ソチ－Format]";
+CAAAfrNormalViewSnu.Title = "[十CAAAfrGeometryWks,CAAAfrNormalViewSnu.Title十一構ソチ－Normal View]";
+CAAAfrGeometryWks.ShortHelp = "[十CAAAfrGeometryWks,AAfrGeometryWks.ShortHelp十一構ソチ－Geometry Workshop]";
+CAAAfrGeometryWks.Title = "[十CAAAfrGeometryWks,CAAAfrGeometryWks.Title十一構ソチ－CAA Geometry]";
+CAAAfrMLinesIcb.Title = "[十CAAAfrGeometryWks,CAAAfrMLinesIcb.Title十一構ソチ－Multi lines Elements]";
+CAAAfrGeometryWks.Help = "[十CAAAfrGeometryWks,CAAAfrGeometryWks.Help十一構ソチ－The Geometry Workshop]";
+CAAAfrBasicElementTlb.Title = "[十CAAAfrGeometryWks,AAfrBasicElementTlb.Title十一構ソチ－Basic Elements]";
+CAAAfrExploreMnu.Title = "[十CAAAfrGeometryWks,CAAAfrExploreMnu.Title十一構ソチ－Explore]";

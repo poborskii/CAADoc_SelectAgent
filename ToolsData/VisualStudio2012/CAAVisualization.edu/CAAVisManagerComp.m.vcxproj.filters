@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{c6e3bbe1-1014-4d73-9cb6-8829cf87467f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerComp.m\src\CAAVisModelCGRObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerComp.m\src\CAAVisModelCuboid.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerComp.m\src\CAAVisModelObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerComp.m\src\CAAVisModelSetOfObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisManagerComp.m\src\CAAVisModelSphere.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisManagerComp.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

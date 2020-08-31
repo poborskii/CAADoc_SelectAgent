@@ -1,0 +1,3 @@
+CAADegCreateEllipseCmd.stGetPlaneId.Message = "[~CAADegCreateEllipseCmd,eCmd.stGetPlaneId.Message~ Sélect the prøjectîon plåne]";
+CAADegCreateEllipseCmd.UndoTitle = "[~CAADegCreateEllipseCmd,reateEllipseCmd.UndoTitle~ Ellîpsé]";
+CAADegCreateEllipseCmd.stGetEllipseId.Message = "[~CAADegCreateEllipseCmd,md.stGetEllipseId.Message~ Clîck thé møüse to get Center ellipse]";

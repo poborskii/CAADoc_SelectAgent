@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAAAfrGeoWksAddin.dll|.\CAAApplicationFrame.edu\CAAAfrGeoWksAddin.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrGeoWksAddin.m\Objects\win_b64\mkcsc\CAAAfrGeoWksAddin.cscdb|.\CAAApplicationFrame.edu\CAAAfrGeoWksAddin.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrGeoWksAddin.lib|.\CAAApplicationFrame.edu\CAAAfrGeoWksAddin.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrGeoWksAddin.pdb|.\CAAApplicationFrame.edu\CAAAfrGeoWksAddin.m
+INT/000/CUS .\win_b64\code\lib\CAAAfrGeoWksAddin.exp|.\CAAApplicationFrame.edu\CAAAfrGeoWksAddin.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

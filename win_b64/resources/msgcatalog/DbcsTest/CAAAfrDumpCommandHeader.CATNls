@@ -1,0 +1,5 @@
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.LongHelp = "[十CAAAfrDumpCommandHeader,er.CAAAfrDumpHdr.LongHelp十一構ソチ－Element Count (Tools menu)]\n[十CAAAfrDumpCommandHeader,er.CAAAfrDumpHdr.LongHelp十一構ソチ－This command enables the user to dump document contents]";
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.ShortHelp = "[十CAAAfrDumpCommandHeader,r.CAAAfrDumpHdr.ShortHelp十一構ソチ－Element Count]";
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.Category = "[十CAAAfrDumpCommandHeader,er.CAAAfrDumpHdr.Category十一構ソチ－Tools]";
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.Title = "[十CAAAfrDumpCommandHeader,eader.CAAAfrDumpHdr.Title十一構ソチ－Element Count...]";
+CAAAfrDumpCommandHeader.CAAAfrDumpHdr.Help = "[十CAAAfrDumpCommandHeader,Header.CAAAfrDumpHdr.Help十一構ソチ－Contents of the document]";

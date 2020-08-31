@@ -1,0 +1,6 @@
+XYZFrame.LongHelp = "[~CAAAfrPlaneEditCmd,XYZFrame.LongHelp~ Thîs Diåløg Box allows yoü to changé the origin of the plane]";
+Title = "[~CAAAfrPlaneEditCmd,Title~ Plåné Orîgin Definitiøn]";
+Help = "[~CAAAfrPlaneEditCmd,Help~~~~~~~ Thîs Diåløg Box allows yoü to changé the origin of the plane]";
+XYZFrame.YFrame.YLabel.Title = "[~CAAAfrPlaneEditCmd,Frame.YFrame.YLabel.Title~ Y: ]";
+XYZFrame.ZFrame.ZLabel.Title = "[~CAAAfrPlaneEditCmd,Frame.ZFrame.ZLabel.Title~ Z: ]";
+XYZFrame.XFrame.XLabel.Title = "[~CAAAfrPlaneEditCmd,Frame.XFrame.XLabel.Title~ X: ]";

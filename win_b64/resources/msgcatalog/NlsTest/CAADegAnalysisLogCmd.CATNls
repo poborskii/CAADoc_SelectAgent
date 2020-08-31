@@ -1,0 +1,5 @@
+MediumPointTitle = "[~CAADegAnalysisLogCmd,MediumPointTitle~ Médîüm Pøint]";
+CAADegAnalysisLogCmd.UndoTitle = "[~CAADegAnalysisLogCmd,gAnalysisLogCmd.UndoTitle~ Løgîcål]";
+CAADegAnalysisLogCmd.stGetEltStateId.Message = "[~CAADegAnalysisLogCmd,d.stGetEltStateId.Message~ Sélect å lîne with the right büttøn]";
+StartPointTitle = "[~CAADegAnalysisLogCmd,StartPointTitle~ Stårt Pøînt]";
+EndPointTitle = "[~CAADegAnalysisLogCmd,EndPointTitle~ End Pøînt]";

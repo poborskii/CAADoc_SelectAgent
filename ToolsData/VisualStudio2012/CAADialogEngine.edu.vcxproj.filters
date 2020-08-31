@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{b482c43c-13ad-413f-894c-a233dfba44cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code">
+      <UniqueIdentifier>{d3bd372e-2fde-45e1-b235-205494245f44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code\dictionary">
+      <UniqueIdentifier>{25078464-2943-41aa-8018-f8d8fb17322f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{ce7d1af0-5a57-4a0f-b104-25f97b61bd4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic">
+      <UniqueIdentifier>{c5aad93f-20de-4f8a-823e-73bf004f9813}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons">
+      <UniqueIdentifier>{f0b53b2e-4d81-42d5-b157-e4f84da99a9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons\normal">
+      <UniqueIdentifier>{ab580351-ae98-44c9-af60-20092776a3d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{69b9767b-c4d8-4f5f-995a-dd9c4b1b87fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{ccceafb0-6326-4e6d-a65b-5a6ffd5bb3d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects">
+      <UniqueIdentifier>{0d729370-a504-4d47-a410-b887828ec741}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64">
+      <UniqueIdentifier>{ce68823e-1d6b-4da8-b3c3-22e58f47a5d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64\.mkGraphs">
+      <UniqueIdentifier>{9671725a-d4fc-4869-a2e8-7bfb1f79d9cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{e9701c7c-bd75-4272-98a1-9b11f1549175}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAADialogEngine.edu\IdentityCard\IdentityCard.h">
+      <Filter>IdentityCard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAADialogEngine.edu\PrivateInterfaces\CAADegMultiDocCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\CAADialogEngine.edu\.installation.mode">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\code\dictionary\CAADialogEngine.edu.dico">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\graphic\icons\normal\I_CAASwitchAgentCube.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\graphic\icons\normal\I_CAASwitchAgentCuboidWidthDepth.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\graphic\icons\normal\I_CAASwitchAgentCuboidWidthDepthHeight.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\graphic\icons\normal\I_CAASwitchOrigin.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegAnalysisEltTypeCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegAnalysisLogCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegAnalysisNumericCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegAnalysisNumericDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegChoiceBehaviorDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegClippingByBoxCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegClippingBySphereCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateBoxCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateBoxCmd.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateBoxPaletteHeader.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateBoxPaletteHeader.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateCircleCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateCylinder1Cmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateCylinder2Cmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateEllipseCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateLineCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreatePlaneCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreatePolylineBy2TrianglesCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreatePolylineCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateRectangleCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegCreateTriangleCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegFileCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegHistogramChartWindowCmd.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegHstChartWndDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegPointEditor.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegPointErrorBox.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegRadiusEllipseEditor.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\CNext\resources\msgcatalog\CAADegSampleMultiDocumentCommand.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAADialogEngine.edu\IdentityCard\Objects\win_b64\.mkGraphs\mkBSIdcardBuild.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+  </ItemGroup>
+</Project>

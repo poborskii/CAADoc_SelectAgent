@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\CAADialogEngine.edu\CAADegGeoCommands.m\Objects\win_b64\mkcsc\CAADegGeoCommands.cscdb|.\CAADialogEngine.edu\CAADegGeoCommands.m
+BTV/000/CUS .\win_b64\code\lib\CAADegGeoCommands.lib|.\CAADialogEngine.edu\CAADegGeoCommands.m
+RTV/001/CUS .\win_b64\code\bin\CAADegGeoCommands.dll|.\CAADialogEngine.edu\CAADegGeoCommands.m
+INT/000/CUS .\win_b64\code\lib\CAADegGeoCommands.exp|.\CAADialogEngine.edu\CAADegGeoCommands.m
+INT/000/CUS .\win_b64\code\bin\CAADegGeoCommands.pdb|.\CAADialogEngine.edu\CAADegGeoCommands.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

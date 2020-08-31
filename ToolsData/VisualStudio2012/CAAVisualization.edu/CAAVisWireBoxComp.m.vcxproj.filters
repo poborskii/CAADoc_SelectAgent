@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{fa2a6f82-93e5-4aca-9ce4-4490f8b8b3f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{3b6e23a2-94af-4115-ba35-3e3193d08390}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAEVisCreateInstanceForWireBox.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAEVisVisuWireBox.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAEVisWireBox.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAIVisWireBox.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\CAAVisWireBox.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\LocalInterfaces\CAAEVisCreateInstanceForWireBox.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\LocalInterfaces\CAAEVisVisuWireBox.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\LocalInterfaces\CAAEVisWireBox.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\LocalInterfaces\CAAVisWireBox.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\..\CAAVisualization.edu\CAAVisWireBoxComp.m\src\TIE_CAAIVisWireBox.tsrc">
+      <Filter>src</Filter>
+    </None>
+  </ItemGroup>
+</Project>

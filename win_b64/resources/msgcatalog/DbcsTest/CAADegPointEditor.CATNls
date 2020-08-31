@@ -1,0 +1,4 @@
+Title = "[十CAADegPointEditor,Title十一構ソチ－Point Definition]";
+XFrame.XLabel.Title = "[十CAADegPointEditor,XFrame.XLabel.Title十一構ソチ－X: ]";
+ZFrame.ZLabel.Title = "[十CAADegPointEditor,ZFrame.ZLabel.Title十一構ソチ－Z: ]";
+YFrame.YLabel.Title = "[十CAADegPointEditor,YFrame.YLabel.Title十一構ソチ－Y: ]";

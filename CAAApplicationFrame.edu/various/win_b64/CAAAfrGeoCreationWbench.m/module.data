@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CAAAfrGeoCreationWbench.exp|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\Objects\win_b64\mkcsc\CAAAfrGeoCreationWbench.cscdb|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m
+RTV/001/CUS .\win_b64\code\bin\CAAAfrGeoCreationWbench.dll|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrGeoCreationWbench.lib|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrGeoCreationWbench.pdb|.\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

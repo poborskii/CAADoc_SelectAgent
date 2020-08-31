@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{b1d566e8-0847-462d-90cf-f16ba9867a81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{691f92ab-4509-437c-9286-a8c9c7fe94e0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\src\CAAAfrComboColorHeader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\src\CAAAfrComboRep.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\src\CAAAfrEltCountHeader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\src\CAAAfrEltCountRep.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\src\CAAAfrMRUHeader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\src\CAAAfrMRURep.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\src\CAAEAfrCommandHeaderRepForComboColor.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\src\CAAEAfrCommandHeaderRepForEltCount.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\src\CAAEAfrCommandHeaderRepForMRU.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\LocalInterfaces\CAAAfrComboRep.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\LocalInterfaces\CAAAfrEltCountRep.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\LocalInterfaces\CAAAfrMRURep.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\LocalInterfaces\CAAEAfrCommandHeaderRepForComboColor.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\LocalInterfaces\CAAEAfrCommandHeaderRepForEltCount.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\LocalInterfaces\CAAEAfrCommandHeaderRepForMRU.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrCustomizedCommandHeader.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

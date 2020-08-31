@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{934119da-bd98-4ea5-8593-85d2050ea789}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{0db76085-8b06-4fa2-8c26-ebcbf778fd72}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\src\CAAAfrPlaneEditCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\src\CAAAfrPointEditCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\src\CAAAfrPointEditDlg.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\src\CAAEAfrEditPlane.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\src\CAAEAfrEditPoint.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\LocalInterfaces\CAAAfrPlaneEditCmd.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\LocalInterfaces\CAAAfrPointEditCmd.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\LocalInterfaces\CAAAfrPointEditDlg.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\LocalInterfaces\CAAEAfrEditPlane.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\LocalInterfaces\CAAEAfrEditPoint.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoEdition.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

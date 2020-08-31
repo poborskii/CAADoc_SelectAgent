@@ -1,0 +1,5 @@
+MediumPointTitle = "[十CAADegAnalysisLogCmd,MediumPointTitle十一構ソチ－Medium Point]";
+CAADegAnalysisLogCmd.UndoTitle = "[十CAADegAnalysisLogCmd,gAnalysisLogCmd.UndoTitle十一構ソチ－Logical]";
+CAADegAnalysisLogCmd.stGetEltStateId.Message = "[十CAADegAnalysisLogCmd,d.stGetEltStateId.Message十一構ソチ－Select a line with the right button]";
+StartPointTitle = "[十CAADegAnalysisLogCmd,StartPointTitle十一構ソチ－Start Point]";
+EndPointTitle = "[十CAADegAnalysisLogCmd,EndPointTitle十一構ソチ－End Point]";

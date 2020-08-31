@@ -1,0 +1,3 @@
+CAADegCreateLineCmd.stStartPointId.Message = "[~CAADegCreateLineCmd,md.stStartPointId.Message~ Indîcåté the first pøints'position]";
+CAADegCreateLineCmd.UndoTitle = "[~CAADegCreateLineCmd,egCreateLineCmd.UndoTitle~ Lîné]";
+CAADegCreateLineCmd.stEndPointId.Message = "[~CAADegCreateLineCmd,eCmd.stEndPointId.Message~ Møvé the moüse ånd clîck to define the second point]";

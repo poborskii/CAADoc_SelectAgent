@@ -1,0 +1,4 @@
+CAADegCreateCircleCmd.stGetCircleCenterId.Message = "[~CAADegCreateCircleCmd,GetCircleCenterId.Message~ Indîcåté the circle center]";
+CAADegCreateCircleCmd.stGetRadiusId.Message = "[~CAADegCreateCircleCmd,Cmd.stGetRadiusId.Message~ Møvé the moüse ånd clîck to ended]";
+CAADegCreateCircleCmd.stGetPlaneId.Message = "[~CAADegCreateCircleCmd,eCmd.stGetPlaneId.Message~ Sélect the prøjectîon plåne]";
+CAADegCreateCircleCmd.UndoTitle = "[~CAADegCreateCircleCmd,CreateCircleCmd.UndoTitle~ Cîrclé]";

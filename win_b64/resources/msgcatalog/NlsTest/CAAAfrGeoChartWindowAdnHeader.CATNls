@@ -1,0 +1,5 @@
+CAAAfrGeoChartWindowAdnHeader.CAAAfrHistogramChartWindowHdr.Help = "[~CAAAfrGeoChartWindowAdnHeader,togramChartWindowHdr.Help~ Hîstøgråm Chart Window]";
+CAAAfrGeoChartWindowAdnHeader.CAAAfrHistogramChartWindowHdr.Category = "[~CAAAfrGeoChartWindowAdnHeader,amChartWindowHdr.Category~ Tøols]";
+CAAAfrGeoChartWindowAdnHeader.CAAAfrHistogramChartWindowHdr.ShortHelp = "[~CAAAfrGeoChartWindowAdnHeader,mChartWindowHdr.ShortHelp~ Hîstøgråm Chart Window]";
+CAAAfrGeoChartWindowAdnHeader.CAAAfrHistogramChartWindowHdr.Title = "[~CAAAfrGeoChartWindowAdnHeader,ogramChartWindowHdr.Title~ Hîstøgråm Chart Window]";
+CAAAfrGeoChartWindowAdnHeader.CAAAfrHistogramChartWindowHdr.LongHelp = "[~CAAAfrGeoChartWindowAdnHeader,amChartWindowHdr.LongHelp~ Hîstøgråm Chart Window]\n[~CAAAfrGeoChartWindowAdnHeader,amChartWindowHdr.LongHelp~ Thîs Cømmånd opéns a Window to represent model's element by an histogram chart]";

@@ -1,0 +1,14 @@
+ChoiceMASelModesId.ShortHelp = "[十CAADegChoiceBehaviorDlg,iceMASelModesId.ShortHelp十一構ソチ－One Selection by trap/indication, trap, intersection trap]";
+Title = "[十CAADegChoiceBehaviorDlg,Title十一構ソチ－Agent behavior Choice]";
+ChoiceMAUserCtrlId.ShortHelp = "[十CAADegChoiceBehaviorDlg,iceMAUserCtrlId.ShortHelp十一構ソチ－One Selection by trap/indication, trap, intersection trap]";
+Help = "[十CAADegChoiceBehaviorDlg,Help十十十十十十十十十十十十十十十一構ソチ－Dialog box to select the behavior of the next dialog agent (a CATPathElementAgent)]";
+ChoiceMACtrlId.LongHelp = "[十CAADegChoiceBehaviorDlg,ChoiceMACtrlId.LongHelp十一構ソチ－Through an user interface, N Selections by :]\n[十CAADegChoiceBehaviorDlg,ChoiceMACtrlId.LongHelp十一構ソチ－                           - trap (complety in) / indication, ]\n[十CAADegChoiceBehaviorDlg,ChoiceMACtrlId.LongHelp十一構ソチ－                           - trap (complety in) ]\n[十CAADegChoiceBehaviorDlg,ChoiceMACtrlId.LongHelp十一構ソチ－                           - intersection trap (partiellement in) ]";
+ChoiceMACtrlId.ShortHelp = "[十CAADegChoiceBehaviorDlg,ChoiceMACtrlId.ShortHelp十一構ソチ－N Selections by trap/indication, trap, intersection trap]";
+ChoiceMASelModesId.LongHelp = "[十CAADegChoiceBehaviorDlg,oiceMASelModesId.LongHelp十一構ソチ－One Selection by trap/indication, trap, intersection trap]";
+ChoiceMACtrlId.Title = "[十CAADegChoiceBehaviorDlg,ChoiceMACtrlId.Title十一構ソチ－CATDlgEngMultiAcquisitionCtrl]";
+ChoiceMAUserCtrlId.Title = "[十CAADegChoiceBehaviorDlg,ChoiceMAUserCtrlId.Title十一構ソチ－CATDlgEngMultiAcquisitionUserCtrl]";
+ChoiceMAUserCtrlId.LongHelp = "[十CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp十一構ソチ－Through an user interface, 1 Selection by :]\n[十CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp十一構ソチ－                           - trap (complety in) / indication, ]\n[十CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp十一構ソチ－                           - trap (complety in) ]\n[十CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp十一構ソチ－                           - intersection trap (partiellement in)]\n[十CAADegChoiceBehaviorDlg,oiceMAUserCtrlId.LongHelp十一構ソチ－                           The end user can switch, by the user interface to N selections]";
+ChoiceMASelModesId.Title = "[十CAADegChoiceBehaviorDlg,ChoiceMASelModesId.Title十一構ソチ－CATDlgEngMultiAcquisitionSelModes]";
+ChoiceMAUserCtrlId.Help = "[十CAADegChoiceBehaviorDlg,ChoiceMAUserCtrlId.Help十一構ソチ－One Selection by trap/indication, trap, intersection trap]";
+ChoiceMASelModesId.Help = "[十CAADegChoiceBehaviorDlg,ChoiceMASelModesId.Help十一構ソチ－One Selection by trap/indication, trap, intersection trap]";
+ChoiceMACtrlId.Help = "[十CAADegChoiceBehaviorDlg,ChoiceMACtrlId.Help十一構ソチ－N Selections by trap/indication, trap, intersection trap]";

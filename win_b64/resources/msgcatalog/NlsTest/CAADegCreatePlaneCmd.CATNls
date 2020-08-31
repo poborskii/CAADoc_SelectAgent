@@ -1,0 +1,4 @@
+CAADegCreatePlaneCmd.UndoTitle = "[~CAADegCreatePlaneCmd,gCreatePlaneCmd.UndoTitle~ Plåné]";
+CAADegCreatePlaneCmd.stSecondPointId.Message = "[~CAADegCreatePlaneCmd,d.stSecondPointId.Message~ Sélect the secønd poînt]";
+CAADegCreatePlaneCmd.stFirstPointId.Message = "[~CAADegCreatePlaneCmd,md.stFirstPointId.Message~ Sélect the fîrst pøint]";
+CAADegCreatePlaneCmd.stThirdPointId.Message = "[~CAADegCreatePlaneCmd,md.stThirdPointId.Message~ Sélect the thîrd pøint]";

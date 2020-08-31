@@ -1,0 +1,19 @@
+!<mkRTViewData> v1.0.0
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CAASysCharStrings.CATNls|.\CAASystem.edu\CNext\resources\msgcatalog\CAASysCharStrings.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAASysNotToTranslateCharStrings.CATRsc|.\CAASystem.edu\CNext\resources\msgcatalog\CAASysNotToTranslateCharStrings.CATRsc
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CAASysError.CATNls|.\CAASystem.edu\CNext\resources\msgcatalog\CAASysError.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAASysCharStrings.CATNls|.\CAASystem.edu\CNext\resources\msgcatalog\CAASysCharStrings.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\French\CAASysError.CATNls|.\CAASystem.edu\CNext\resources\msgcatalog\French\CAASysError.CATNls
+BTV/002/CUS .\win_b64\code\productIC\CAASystem.eduIC.script|.\CAASystem.edu
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAASysError.CATNls|.\CAASystem.edu\CNext\resources\msgcatalog\CAASysError.CATNls
+DAT/002/CUS .\win_b64\code\dictionary\CAASystem.edu.clsid|.\CAASystem.edu\CNext\code\dictionary\CAASystem.edu.clsid
+CSC/002/DSI .\CAASystem.edu\IdentityCard\Objects\win_b64\mkcsc\CAASystem.edu.cscdb|.\CAASystem.edu
+RTV/002/DSI .\win_b64\code\productIC\CAASystem.eduIC.required|.\CAASystem.edu
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CAASysError.CATNls|.\CAASystem.edu\CNext\resources\msgcatalog\CAASysError.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\French\CAASysCharStrings.CATNls|.\CAASystem.edu\CNext\resources\msgcatalog\French\CAASysCharStrings.CATNls
+DAT/002/CUS .\win_b64\code\dictionary\CAASystem.edu.iid|.\CAASystem.edu\CNext\code\dictionary\CAASystem.edu.iid
+BTV/002/CUS .\win_b64\code\productIC\CAASystem.eduIC.xml|.\CAASystem.edu
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CAASysCharStrings.CATNls|.\CAASystem.edu\CNext\resources\msgcatalog\CAASysCharStrings.CATNls
+DAT/002/CUS .\win_b64\code\dictionary\CAASystem.edu.dico|.\CAASystem.edu\CNext\code\dictionary\CAASystem.edu.dico
+@type='eduFramework'
+@built='true'

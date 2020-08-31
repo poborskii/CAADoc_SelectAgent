@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+BTV/000/CUS .\win_b64\code\lib\CAADegMultiDocCmd.lib|.\CAADialogEngine.edu\CAADegMultiDocCmd.m
+RTV/001/CUS .\win_b64\code\bin\CAADegMultiDocCmd.dll|.\CAADialogEngine.edu\CAADegMultiDocCmd.m
+INT/000/CUS .\win_b64\code\lib\CAADegMultiDocCmd.exp|.\CAADialogEngine.edu\CAADegMultiDocCmd.m
+INT/000/CUS .\win_b64\code\bin\CAADegMultiDocCmd.pdb|.\CAADialogEngine.edu\CAADegMultiDocCmd.m
+CSC/000/DSI .\CAADialogEngine.edu\CAADegMultiDocCmd.m\Objects\win_b64\mkcsc\CAADegMultiDocCmd.cscdb|.\CAADialogEngine.edu\CAADegMultiDocCmd.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

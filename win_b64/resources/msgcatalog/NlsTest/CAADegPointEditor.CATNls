@@ -1,0 +1,4 @@
+Title = "[~CAADegPointEditor,Title~ Pøînt Définition]";
+XFrame.XLabel.Title = "[~CAADegPointEditor,XFrame.XLabel.Title~ X: ]";
+ZFrame.ZLabel.Title = "[~CAADegPointEditor,ZFrame.ZLabel.Title~ Z: ]";
+YFrame.YLabel.Title = "[~CAADegPointEditor,YFrame.YLabel.Title~ Y: ]";

@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAASysBBMessageInt.dll|.\CAASystem.edu\CAASysBBMessageInt.m
+CSC/000/DSI .\CAASystem.edu\CAASysBBMessageInt.m\Objects\win_b64\mkcsc\CAASysBBMessageInt.cscdb|.\CAASystem.edu\CAASysBBMessageInt.m
+INT/000/CUS .\win_b64\code\bin\CAASysBBMessageInt.pdb|.\CAASystem.edu\CAASysBBMessageInt.m
+INT/000/CUS .\win_b64\code\lib\CAASysBBMessageInt.exp|.\CAASystem.edu\CAASysBBMessageInt.m
+BTV/000/CUS .\win_b64\code\lib\CAASysBBMessageInt.lib|.\CAASystem.edu\CAASysBBMessageInt.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

@@ -1,0 +1,4 @@
+SubMenuAdd = "[~CAAVisManagerCxtMenu,SubMenuAdd~ Add]";
+ItemNewSet = "[~CAAVisManagerCxtMenu,ItemNewSet~ Sét]";
+ItemDelete = "[~CAAVisManagerCxtMenu,ItemDelete~ Délete]";
+ItemEdit = "[~CAAVisManagerCxtMenu,ItemEdit~ Edît]";

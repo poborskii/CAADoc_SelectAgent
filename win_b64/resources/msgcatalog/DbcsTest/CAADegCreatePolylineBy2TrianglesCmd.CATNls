@@ -1,0 +1,6 @@
+CAADegCreatePolylineBy2TrianglesCmd.SelStartPoint.RedoTitle = "[十CAADegCreatePolylineBy2TrianglesCmd,d.SelStartPoint.RedoTitle十一構ソチ－Redo first TR]";
+CAADegCreatePolylineBy2TrianglesCmd.stGetTriangle1Id.Message = "[十CAADegCreatePolylineBy2TrianglesCmd,.stGetTriangle1Id.Message十一構ソチ－Select the first TR]";
+CAADegCreatePolylineBy2TrianglesCmd.RedoTitle = "[十CAADegCreatePolylineBy2TrianglesCmd,By2TrianglesCmd.RedoTitle十一構ソチ－Redo Create Polyline]";
+CAADegCreatePolylineBy2TrianglesCmd.SelStartPoint.UndoTitle = "[十CAADegCreatePolylineBy2TrianglesCmd,d.SelStartPoint.UndoTitle十一構ソチ－Undo first TR]";
+CAADegCreatePolylineBy2TrianglesCmd.stGetTriangle2Id.Message = "[十CAADegCreatePolylineBy2TrianglesCmd,.stGetTriangle2Id.Message十一構ソチ－Select the second TR]";
+CAADegCreatePolylineBy2TrianglesCmd.UndoTitle = "[十CAADegCreatePolylineBy2TrianglesCmd,By2TrianglesCmd.UndoTitle十一構ソチ－Undo Create Polyline]";

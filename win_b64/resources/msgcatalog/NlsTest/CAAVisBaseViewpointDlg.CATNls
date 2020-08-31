@@ -1,0 +1,13 @@
+GlobalContainer.VectorsFrame.OriginFrame.Title = "[~CAAVisBaseViewpointDlg,rsFrame.OriginFrame.Title~ Orîgin]";
+Title = "[~CAAVisBaseViewpointDlg,Title~ Vîéwpøint Pårameters]";
+GlobalContainer.VectorsFrame.SightFrame.X.Title = "[~CAAVisBaseViewpointDlg,sFrame.SightFrame.X.Title~ X=]";
+GlobalContainer.ValuesFrame.Cylindrical.Title = "[~CAAVisBaseViewpointDlg,esFrame.Cylindrical.Title~ Cylîndricål]";
+GlobalContainer.VectorsFrame.OriginFrame.Z.Title = "[~CAAVisBaseViewpointDlg,Frame.OriginFrame.Z.Title~ Z=]";
+GlobalContainer.VectorsFrame.SightFrame.Y.Title = "[~CAAVisBaseViewpointDlg,sFrame.SightFrame.Y.Title~ Y=]";
+GlobalContainer.ValuesFrame.Conical.Title = "[~CAAVisBaseViewpointDlg,ValuesFrame.Conical.Title~ Cønîcål]";
+GlobalContainer.VectorsFrame.OriginFrame.X.Title = "[~CAAVisBaseViewpointDlg,Frame.OriginFrame.X.Title~ X=]";
+GlobalContainer.ValuesFrame.AngleLabel.Title = "[~CAAVisBaseViewpointDlg,uesFrame.AngleLabel.Title~ Anglé:]";
+GlobalContainer.VectorsFrame.SightFrame.Title = "[~CAAVisBaseViewpointDlg,orsFrame.SightFrame.Title~ Sîght diréctiøn]";
+GlobalContainer.ValuesFrame.FocusLabel.Title = "[~CAAVisBaseViewpointDlg,uesFrame.FocusLabel.Title~ Føcüs dîståncé:]";
+GlobalContainer.VectorsFrame.OriginFrame.Y.Title = "[~CAAVisBaseViewpointDlg,Frame.OriginFrame.Y.Title~ Y=]";
+GlobalContainer.VectorsFrame.SightFrame.Z.Title = "[~CAAVisBaseViewpointDlg,sFrame.SightFrame.Z.Title~ Z=]";

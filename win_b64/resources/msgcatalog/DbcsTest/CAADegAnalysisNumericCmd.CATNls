@@ -1,0 +1,6 @@
+CAADegAnalysisNumericCmd.stMultiAcquisitionSelModesStateId.Message = "[十CAADegAnalysisNumericCmd,onSelModesStateId.Message十一構ソチ－Select Elements by trap,indication]";
+CAADegAnalysisNumericCmd.stEndStateId.Message = "[十CAADegAnalysisNumericCmd,cCmd.stEndStateId.Message十一構ソチ－Close the dialog box to end the command]";
+CAADegAnalysisNumericCmd.stMultiAcquisitionUserCtrlStateId.Message = "[十CAADegAnalysisNumericCmd,onUserCtrlStateId.Message十一構ソチ－Select Elements by trap,indication]";
+CAADegAnalysisNumericCmd.UndoTitle = "[十CAADegAnalysisNumericCmd,lysisNumericCmd.UndoTitle十一構ソチ－Numeric]";
+CAADegAnalysisNumericCmd.stMultiAcquisitionCtrlStateId.Message = "[十CAADegAnalysisNumericCmd,sitionCtrlStateId.Message十一構ソチ－Select Elements by trap,indication and click the Finish button to end the selection.]";
+CAADegAnalysisNumericCmd.stChoiceBehaviorStateId.Message = "[十CAADegAnalysisNumericCmd,ceBehaviorStateId.Message十一構ソチ－Select the agent behavior, or close/cancel to end the command]";

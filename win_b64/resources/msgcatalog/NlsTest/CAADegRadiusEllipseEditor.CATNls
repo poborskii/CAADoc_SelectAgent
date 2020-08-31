@@ -1,0 +1,3 @@
+Title = "[~CAADegRadiusEllipseEditor,Title~ Rådîüs Ellipsé]";
+VFrame.VLabel.Title = "[~CAADegRadiusEllipseEditor,VFrame.VLabel.Title~ V=]";
+UFrame.ULabel.Title = "[~CAADegRadiusEllipseEditor,UFrame.ULabel.Title~ U=]";

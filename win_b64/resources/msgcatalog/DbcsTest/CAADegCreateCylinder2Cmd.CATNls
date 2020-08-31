@@ -1,0 +1,4 @@
+CAADegCreateCylinder2Cmd.stCylinderId.Message = "[十CAADegCreateCylinder2Cmd,2Cmd.stCylinderId.Message十一構ソチ－Select a line and a circle ]";
+CAADegCreateCylinder2Cmd.SelectionLineId.Message = "[十CAADegCreateCylinder2Cmd,d.SelectionLineId.Message十一構ソチ－Select the line]";
+CAADegCreateCylinder2Cmd.UndoTitle = "[十CAADegCreateCylinder2Cmd,ateCylinder2Cmd.UndoTitle十一構ソチ－Cylinder]";
+CAADegCreateCylinder2Cmd.SelectionCircleId.Message = "[十CAADegCreateCylinder2Cmd,SelectionCircleId.Message十一構ソチ－Select in the current or in another editor the circle]";

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{3c1800b0-e003-4d20-bf40-79fc09dcebf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{ec2be969-ef00-46d5-9c23-a66d03c67078}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\src\CAAAfrGeoCreationWkb.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\src\CAAAfrGeoCreationWkbFactory.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\src\CAAIAfrGeoCreationWkbAddin.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\src\CAAIAfrGeoCreationWkbFactory.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\LocalInterfaces\CAAAfrGeoCreationWkb.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\LocalInterfaces\CAAAfrGeoCreationWkbFactory.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\LocalInterfaces\CAAIAfrGeoCreationWkbFactory.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\src\TIE_CAAIAfrGeoCreationWkbAddin.tsrc">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoCreationWbench.m\src\TIE_CAAIAfrGeoCreationWkbFactory.tsrc">
+      <Filter>src</Filter>
+    </None>
+  </ItemGroup>
+</Project>

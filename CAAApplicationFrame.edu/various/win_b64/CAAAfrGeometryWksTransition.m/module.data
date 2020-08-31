@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CAAAfrGeometryWksTransition.exp|.\CAAApplicationFrame.edu\CAAAfrGeometryWksTransition.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrGeometryWksTransition.pdb|.\CAAApplicationFrame.edu\CAAAfrGeometryWksTransition.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrGeometryWksTransition.m\Objects\win_b64\mkcsc\CAAAfrGeometryWksTransition.cscdb|.\CAAApplicationFrame.edu\CAAAfrGeometryWksTransition.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrGeometryWksTransition.lib|.\CAAApplicationFrame.edu\CAAAfrGeometryWksTransition.m
+RTV/001/CUS .\win_b64\code\bin\CAAAfrGeometryWksTransition.dll|.\CAAApplicationFrame.edu\CAAAfrGeometryWksTransition.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

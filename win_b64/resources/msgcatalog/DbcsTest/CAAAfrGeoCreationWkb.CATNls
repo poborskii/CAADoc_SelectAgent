@@ -1,0 +1,10 @@
+CAAAfrSurfacicEltSnu.Mnemonic = "[十CAAAfrGeoCreationWkb,frSurfacicEltSnu.Mnemonic十一構ソチ－u]";
+CAAAfrSurfacicEltSnu.Title = "[十CAAAfrGeoCreationWkb,AAAfrSurfacicEltSnu.Title十一構ソチ－Surfaces]";
+CAAAfrGeoCreationWkb.Title = "[十CAAAfrGeoCreationWkb,AAAfrGeoCreationWkb.Title十一構ソチ－CAA V5: Geometrical Creation]";
+CAAAfrSolidEltSnu.Title = "[十CAAAfrGeoCreationWkb,CAAAfrSolidEltSnu.Title十一構ソチ－Solids]";
+CAAAfrSolidEltSnu.Mnemonic = "[十CAAAfrGeoCreationWkb,AAAfrSolidEltSnu.Mnemonic十一構ソチ－S]";
+CAAAfrSurfacicEltTlb.Title = "[十CAAAfrGeoCreationWkb,AAAfrSurfacicEltTlb.Title十一構ソチ－Surfaces]";
+CAAAfrSolidEltTlb.Title = "[十CAAAfrGeoCreationWkb,CAAAfrSolidEltTlb.Title十一構ソチ－Solids]";
+CAAAfrGeoCreationWkb.ShortHelp = "[十CAAAfrGeoCreationWkb,rGeoCreationWkb.ShortHelp十一構ソチ－Workbench to create Geometrical Element]";
+CAAAfrGeoCreationWkb.Help = "[十CAAAfrGeoCreationWkb,CAAAfrGeoCreationWkb.Help十一構ソチ－Workbench to create Geometrical Element, Solid and Surfacic Elements ]";
+CAAAfrGeoCreationWkb.LongHelp = "[十CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp十一構ソチ－This is the EltCreation Workshop. ]\n[十CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp十一構ソチ－                                It is used to demonstrate workbenchs. ]\n[十CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp十一構ソチ－                                You find 2 toolsbars : ]\n[十CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp十一構ソチ－                                     - For some Surfacic Elements ]\n[十CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp十一構ソチ－                                     - For some Solid Elements  ]\n[十CAAAfrGeoCreationWkb,frGeoCreationWkb.LongHelp十一構ソチ－                               ]";

@@ -1,0 +1,3 @@
+CAADegCreateLineCmd.stStartPointId.Message = "[十CAADegCreateLineCmd,md.stStartPointId.Message十一構ソチ－Indicate the first points'position]";
+CAADegCreateLineCmd.UndoTitle = "[十CAADegCreateLineCmd,egCreateLineCmd.UndoTitle十一構ソチ－Line]";
+CAADegCreateLineCmd.stEndPointId.Message = "[十CAADegCreateLineCmd,eCmd.stEndPointId.Message十一構ソチ－Move the mouse and click to define the second point]";

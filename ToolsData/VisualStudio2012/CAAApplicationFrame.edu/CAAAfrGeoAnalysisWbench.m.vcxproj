@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{c3194567-cd17-424e-8c49-d635b0a9a66a}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\Imakefile.mk" />
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\TIE_CAAIAfrGeoAnalysisWkbAddin.tsrc" />
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\TIE_CAAIAfrGeoAnalysisWkbFactory.tsrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\LocalInterfaces\CAAAfrGeoAnalysisWkb.h" />
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\LocalInterfaces\CAAAfrGeoAnalysisWkbFactory.h" />
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\LocalInterfaces\CAAIAfrGeoAnalysisWkbFactory.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\CAAAfrGeoAnalysisWkb.cpp" />
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\CAAAfrGeoAnalysisWkbFactory.cpp" />
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\CAAIAfrGeoAnalysisWkbAddin.cpp" />
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\CAAIAfrGeoAnalysisWkbFactory.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,13 @@
+Title = "[~CAAVisBaseApplicationFrame,Title~ Vîsüålizatiøn Basic Samplé]";
+MenuBar.File.Exit.Title = "[~CAAVisBaseApplicationFrame,MenuBar.File.Exit.Title~ Exît]";
+MenuBar.Render.Title = "[~CAAVisBaseApplicationFrame,MenuBar.Render.Title~ Rénder]";
+MenuBar.Viewpoint.Reframe.Title = "[~CAAVisBaseApplicationFrame,r.Viewpoint.Reframe.Title~ Réfråme]";
+FileBrowser.Title = "[~CAAVisBaseApplicationFrame,FileBrowser.Title~ Sélect å CGR Fîle]";
+MenuBar.File.Title = "[~CAAVisBaseApplicationFrame,MenuBar.File.Title~ Fîlé]";
+MenuBar.File.Insert.Title = "[~CAAVisBaseApplicationFrame,MenuBar.File.Insert.Title~ Insért...]";
+MenuBar.Render.RenderBE.Title = "[~CAAVisBaseApplicationFrame,Bar.Render.RenderBE.Title~ Rénder Bøündîng Boxes]";
+MenuBar.Manipulator.Title = "[~CAAVisBaseApplicationFrame,MenuBar.Manipulator.Title~ Månîpülatør]";
+MenuBar.File.Open.Title = "[~CAAVisBaseApplicationFrame,MenuBar.File.Open.Title~ Opén...]";
+MenuBar.Viewpoint.ModifyViewpoint.Title = "[~CAAVisBaseApplicationFrame,int.ModifyViewpoint.Title~ Mødîfy]";
+MenuBar.Manipulator.Manipulator.Title = "[~CAAVisBaseApplicationFrame,pulator.Manipulator.Title~ Månîpülatør]";
+MenuBar.Viewpoint.Title = "[~CAAVisBaseApplicationFrame,MenuBar.Viewpoint.Title~ Vîéwpøint]";

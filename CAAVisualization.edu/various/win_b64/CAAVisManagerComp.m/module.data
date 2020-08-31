@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAAVisManagerComp.pdb|.\CAAVisualization.edu\CAAVisManagerComp.m
+INT/000/CUS .\win_b64\code\lib\CAAVisManagerComp.exp|.\CAAVisualization.edu\CAAVisManagerComp.m
+CSC/000/DSI .\CAAVisualization.edu\CAAVisManagerComp.m\Objects\win_b64\mkcsc\CAAVisManagerComp.cscdb|.\CAAVisualization.edu\CAAVisManagerComp.m
+RTV/001/CUS .\win_b64\code\bin\CAAVisManagerComp.dll|.\CAAVisualization.edu\CAAVisManagerComp.m
+BTV/000/CUS .\win_b64\code\lib\CAAVisManagerComp.lib|.\CAAVisualization.edu\CAAVisManagerComp.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

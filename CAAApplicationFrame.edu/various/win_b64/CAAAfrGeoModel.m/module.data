@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAAAfrGeoModel.dll|.\CAAApplicationFrame.edu\CAAAfrGeoModel.m
+INT/000/CUS .\win_b64\code\lib\CAAAfrGeoModel.exp|.\CAAApplicationFrame.edu\CAAAfrGeoModel.m
+INT/000/CUS .\win_b64\code\bin\CAAAfrGeoModel.pdb|.\CAAApplicationFrame.edu\CAAAfrGeoModel.m
+CSC/000/DSI .\CAAApplicationFrame.edu\CAAAfrGeoModel.m\Objects\win_b64\mkcsc\CAAAfrGeoModel.cscdb|.\CAAApplicationFrame.edu\CAAAfrGeoModel.m
+BTV/000/CUS .\win_b64\code\lib\CAAAfrGeoModel.lib|.\CAAApplicationFrame.edu\CAAAfrGeoModel.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

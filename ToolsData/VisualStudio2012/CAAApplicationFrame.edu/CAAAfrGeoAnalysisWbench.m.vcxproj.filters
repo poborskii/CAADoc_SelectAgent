@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{31a51083-444c-450f-9219-9b0792144d99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{279781cf-f143-426e-8a9f-065ea54d67e4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\CAAAfrGeoAnalysisWkb.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\CAAAfrGeoAnalysisWkbFactory.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\CAAIAfrGeoAnalysisWkbAddin.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\CAAIAfrGeoAnalysisWkbFactory.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\LocalInterfaces\CAAAfrGeoAnalysisWkb.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\LocalInterfaces\CAAAfrGeoAnalysisWkbFactory.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\LocalInterfaces\CAAIAfrGeoAnalysisWkbFactory.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\TIE_CAAIAfrGeoAnalysisWkbAddin.tsrc">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\CAAApplicationFrame.edu\CAAAfrGeoAnalysisWbench.m\src\TIE_CAAIAfrGeoAnalysisWkbFactory.tsrc">
+      <Filter>src</Filter>
+    </None>
+  </ItemGroup>
+</Project>
